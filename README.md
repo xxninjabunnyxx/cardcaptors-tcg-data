@@ -1,1 +1,1 @@
-# cardcaptors_tcg_raw_data
+Raw data from Cardcaptors TCG
