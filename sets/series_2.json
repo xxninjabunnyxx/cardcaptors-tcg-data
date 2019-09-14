@@ -1,1 +1,659 @@
-{"set_name": "Series 2", "url": "/im/selectCard/series_id/1410/goal/", "cards": [{"name": ["<strong>Aiden Avalon Boost</strong>"], "effect": ["<p>Add 1000 to the Battle Value of Sakura and/or Tori.</p>"], "attributes": ["<li><strong>Number:</strong> S34</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>Alchemy</strong>"], "effect": ["<p>Change any Clow Spirit card type to Gold for this turn only.</p>"], "attributes": ["<li><strong>Number:</strong> S32</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>Burning Drain</strong>"], "effect": ["<p>Subtract 2000 from the Battle Value of Wood-, Fire-, and/or Electricity-type Capture cards</p>"], "attributes": ["<li><strong>Number:</strong> S40</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>Cereberos Arrives!</strong>"], "effect": ["<p>Add 4000 to your Battle Value.</p>"], "attributes": ["<li><strong>Number:</strong> S37</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>Clow Reed Drain</strong>"], "effect": ["<p>Subract 1000 from the Battle Value of any Capture card that is not Sakura or Li Showron.</p>"], "attributes": ["<li><strong>Number:</strong> S41</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>Flaming Boost</strong>"], "effect": ["<p>Add 2000 to the Battle Value of Wood-, Fire-, and/or Electricity-type Capture cards.</p>"], "attributes": ["<li><strong>Number:</strong> S36</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>Fluid Drain</strong>"], "effect": ["<p>Subtract 3000 from the Battle Value of Water-, Rain-, and/or Clouds-type Capture cards.</p>"], "attributes": ["<li><strong>Number:</strong> S39</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>Julian</strong>"], "effect": ["<p>[Character type: Non-magical]</p>"], "attributes": ["<li><strong>Number:</strong> C83</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Gold/Electricity</li>", "<li><strong>Attack:</strong> 3000</li>"]}, {"name": ["<strong>Julian</strong>"], "effect": ["<p>[Character type: Non-magical]</p>"], "attributes": ["<li><strong>Number:</strong> C84</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Earth/Water</li>", "<li><strong>Attack:</strong> 3000</li>"]}, {"name": ["<strong>Julian</strong>"], "effect": ["<p>[Character type: Non-magical]</p>"], "attributes": ["<li><strong>Number:</strong> C85</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Clouds/Rain</li>", "<li><strong>Attack:</strong> 5000</li>"]}, {"name": ["<strong>Kero</strong>"], "effect": ["<p>[Character type: Magical] </p>"], "attributes": ["<li><strong>Number:</strong> C71</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Clouds/Water</li>", "<li><strong>Attack:</strong> 2000</li>"]}, {"name": ["<strong>Kero</strong>"], "effect": ["<p>[Character type: Magical] </p>"], "attributes": ["<li><strong>Number:</strong> C72</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Clouds</li>", "<li><strong>Attack:</strong> 5000</li>"]}, {"name": ["<strong>Kero</strong>"], "effect": ["<p>[Character type: Magical]</p>"], "attributes": ["<li><strong>Number:</strong> C73</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Earth/Wind</li>", "<li><strong>Attack:</strong> 3000</li>"]}, {"name": ["<strong>Kero</strong>"], "effect": ["<p>[Character type: Magical] </p>"], "attributes": ["<li><strong>Number:</strong> C74</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Gold/Rain</li>", "<li><strong>Attack:</strong> 5000</li>"]}, {"name": ["<strong>Kero</strong>"], "effect": ["<p>[Character type: Magical] </p>"], "attributes": ["<li><strong>Number:</strong> C75</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Rain/Water</li>", "<li><strong>Attack:</strong> 2000</li>"]}, {"name": ["<strong>Kero</strong>"], "effect": ["<p>[Character type: Magical] </p>"], "attributes": ["<li><strong>Number:</strong> C76</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Clouds/Earth</li>", "<li><strong>Attack:</strong> 3000</li>"]}, {"name": ["<strong>Kero</strong>"], "effect": ["<p>[Character type: Magical]</p>"], "attributes": ["<li><strong>Number:</strong> R15</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Reinforcement</li>"]}, {"name": ["<strong>Layla Mackenzie</strong>"], "effect": ["<p>[Character type: Magical] </p>"], "attributes": ["<li><strong>Number:</strong> C44</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Clouds/Wind</li>", "<li><strong>Attack:</strong> 3000</li>"]}, {"name": ["<strong>Layla Mackenzie</strong>"], "effect": ["<p>[Character type: Magical] </p>"], "attributes": ["<li><strong>Number:</strong> C45</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Fire/Rain</li>", "<li><strong>Attack:</strong> 3000</li>"]}, {"name": ["<strong>Layla Mackenzie</strong>"], "effect": ["<p>[Character type: Magical] </p>"], "attributes": ["<li><strong>Number:</strong> C46</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Earth/Wind</li>", "<li><strong>Attack:</strong> 5000</li>"]}, {"name": ["<strong>Layla Mackenzie</strong>"], "effect": ["<p>[Character type: Magical] </p>"], "attributes": ["<li><strong>Number:</strong> C47</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Electricity/Water</li>", "<li><strong>Attack:</strong> 3000</li>"]}, {"name": ["<strong>Layla Mackenzie</strong>"], "effect": ["<p>[Character type: Magical] </p>"], "attributes": ["<li><strong>Number:</strong> C48</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Gold/Water</li>", "<li><strong>Attack:</strong> 2000</li>"]}, {"name": ["<strong>Layla Mackenzie</strong>"], "effect": ["<p>[Character type: Magical] </p>"], "attributes": ["<li><strong>Number:</strong> C49</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Clouds/Electricity</li>", "<li><strong>Attack:</strong> 4000</li>"]}, {"name": ["<strong>Layla Mackenzie</strong>"], "effect": ["<p>[Character type: Magical] </p>"], "attributes": ["<li><strong>Number:</strong> C50</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Rain/Wood</li>", "<li><strong>Attack:</strong> 2000</li>"]}, {"name": ["<strong>Layla Mackenzie</strong>"], "effect": ["<p>[Character type: Magical] </p>"], "attributes": ["<li><strong>Number:</strong> C51</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Earth/Wind</li>", "<li><strong>Attack:</strong> 4000</li>"]}, {"name": ["<strong>Layla Mackenzie</strong>"], "effect": ["<p>[Character type: Magical] </p>"], "attributes": ["<li><strong>Number:</strong> C52</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Fire/Gold</li>", "<li><strong>Attack:</strong> 5000</li>"]}, {"name": ["<strong>Layla Mackenzie</strong>"], "effect": ["<p>[Character type: Magical] </p>"], "attributes": ["<li><strong>Number:</strong> R12</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Reinforcement</li>"]}, {"name": ["<strong>Layla Mackenzie/Tori</strong>"], "effect": ["<p>[Character type: Magical/Skilled]</p>"], "attributes": ["<li><strong>Number:</strong> R13</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Reinforcement</li>"]}, {"name": ["<strong>Li Showron</strong>"], "effect": ["<p>[Character type: Magical] </p>"], "attributes": ["<li><strong>Number:</strong> C65</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Rain</li>", "<li><strong>Attack:</strong> 4000</li>"]}, {"name": ["<strong>Li Showron</strong>"], "effect": ["<p>[Character type: Magical]</p>"], "attributes": ["<li><strong>Number:</strong> C66</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Clouds/Rain</li>", "<li><strong>Attack:</strong> 2000</li>"]}, {"name": ["<strong>Li Showron</strong>"], "effect": ["<p>[Character type: Magical]</p>"], "attributes": ["<li><strong>Number:</strong> C67</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Earth/Water</li>", "<li><strong>Attack:</strong> 4000</li>"]}, {"name": ["<strong>Li Showron</strong>"], "effect": ["<p>[Character type: Magical] </p>"], "attributes": ["<li><strong>Number:</strong> C68</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Earth/Gold</li>", "<li><strong>Attack:</strong> 5000</li>"]}, {"name": ["<strong>Li Showron</strong>"], "effect": ["<p>[Character type: Magical]</p>"], "attributes": ["<li><strong>Number:</strong> C69</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Earth/Clouds</li>", "<li><strong>Attack:</strong> 2000</li>"]}, {"name": ["<strong>Li Showron</strong>"], "effect": ["<p>[Character type: Magical]</p>"], "attributes": ["<li><strong>Number:</strong> C70</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Rain/Water</li>", "<li><strong>Attack:</strong> 3000</li>"]}, {"name": ["<strong>Li Showron's Board</strong>"], "effect": ["<p>Play on Li Showron Capture or Reinforcement card. No Strategy cards may be used against him his turn.</p>"], "attributes": ["<li><strong>Number:</strong> S30</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>Liquid Boost</strong>"], "effect": ["<p>Add 3000 to the Battle Value of Water-, Rain-, and/or Clouds-type Capture cards.</p>"], "attributes": ["<li><strong>Number:</strong> S35</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>Madison</strong>"], "effect": ["<p>[Character type: Non-magical]</p>"], "attributes": ["<li><strong>Number:</strong> C59</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Clouds/Wood</li>", "<li><strong>Attack:</strong> 4000</li>"]}, {"name": ["<strong>Madison</strong>"], "effect": ["<p>[Character type: Non-magical]</p>"], "attributes": ["<li><strong>Number:</strong> C60</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Fire/Rain</li>", "<li><strong>Attack:</strong> 2000</li>"]}, {"name": ["<strong>Madison</strong>"], "effect": ["<p>[Character type: Non-magical]</p>"], "attributes": ["<li><strong>Number:</strong> C61</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Earth/Electricity</li>", "<li><strong>Attack:</strong> 3000</li>"]}, {"name": ["<strong>Madison</strong>"], "effect": ["<p>[Character type: Non-magical]</p>"], "attributes": ["<li><strong>Number:</strong> C62</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Gold/Water</li>", "<li><strong>Attack:</strong> 4000</li>"]}, {"name": ["<strong>Madison</strong>"], "effect": ["<p>[Character type: Non-magical]</p>"], "attributes": ["<li><strong>Number:</strong> C63</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Earth/Water</li>", "<li><strong>Attack:</strong> 5000</li>"]}, {"name": ["<strong>Madison</strong>"], "effect": ["<p>[Character type: Non-magical]</p>"], "attributes": ["<li><strong>Number:</strong> C64</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Clouds/Rain</li>", "<li><strong>Attack:</strong> 3000</li>"]}, {"name": ["<strong>Madison/Meilin</strong>"], "effect": ["<p>[Character type: Nonmagical / Skilled]</p>"], "attributes": ["<li><strong>Number:</strong> R14</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Reinforcement</li>"]}, {"name": ["<strong>Meilin</strong>"], "effect": ["<p>[Character type: Skilled]</p>"], "attributes": ["<li><strong>Number:</strong> C77</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Clouds/Water</li>", "<li><strong>Attack:</strong> 4000</li>"]}, {"name": ["<strong>Meilin</strong>"], "effect": ["<p>[Character type: Skilled]</p>"], "attributes": ["<li><strong>Number:</strong> C78</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Earth</li>", "<li><strong>Attack:</strong> 2000</li>"]}, {"name": ["<strong>Meilin</strong>"], "effect": ["<p>[Character type: Skilled]</p>"], "attributes": ["<li><strong>Number:</strong> C79</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Rain/Wind</li>", "<li><strong>Attack:</strong> 4000</li>"]}, {"name": ["<strong>Meilin</strong>"], "effect": ["<p>[Character type: Skilled]</p>"], "attributes": ["<li><strong>Number:</strong> C80</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Clouds/Gold</li>", "<li><strong>Attack:</strong> 2000</li>"]}, {"name": ["<strong>Meilin</strong>"], "effect": ["<p>[Character type: Skilled]</p>"], "attributes": ["<li><strong>Number:</strong> C81</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Clouds/Rain</li>", "<li><strong>Attack:</strong> 3000</li>"]}, {"name": ["<strong>Meilin</strong>"], "effect": ["<p>[Character type: Skilled]</p>"], "attributes": ["<li><strong>Number:</strong> C82</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Earth/Water</li>", "<li><strong>Attack:</strong> 5000</li>"]}, {"name": ["<strong>Sakura</strong>"], "effect": ["<p>[Character type: Magical] </p>"], "attributes": ["<li><strong>Number:</strong> C53</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Rain/Water</li>", "<li><strong>Attack:</strong> 5000</li>"]}, {"name": ["<strong>Sakura</strong>"], "effect": ["<p>[Character type: Magical] </p>"], "attributes": ["<li><strong>Number:</strong> C54</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Earth/Water</li>", "<li><strong>Attack:</strong> 2000</li>"]}, {"name": ["<strong>Sakura</strong>"], "effect": ["<p>[Character type: Magical] </p>"], "attributes": ["<li><strong>Number:</strong> C55</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Fire/Rain</li>", "<li><strong>Attack:</strong> 2000</li>"]}, {"name": ["<strong>Sakura</strong>"], "effect": ["<p>[Character type: Magical] </p>"], "attributes": ["<li><strong>Number:</strong> C56</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Clouds/Gold</li>", "<li><strong>Attack:</strong> 4000</li>"]}, {"name": ["<strong>Sakura</strong>"], "effect": ["<p>[Character type: Magical] </p>"], "attributes": ["<li><strong>Number:</strong> C57</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Clouds/Water</li>", "<li><strong>Attack:</strong> 3000</li>"]}, {"name": ["<strong>Sakura</strong>"], "effect": ["<p>[Character type: Magical] </p>"], "attributes": ["<li><strong>Number:</strong> C58</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Earth/Rain</li>", "<li><strong>Attack:</strong> 4000</li>"]}, {"name": ["<strong>Sealing Wand</strong>"], "effect": ["<p>Play on Sakura Capture or Reinforcement card. No Strategy cards may be used against her this turn.</p>"], "attributes": ["<li><strong>Number:</strong> S29</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>Security Breach</strong>"], "effect": ["<p>Play at any time to see your opponent's hand.</p>"], "attributes": ["<li><strong>Number:</strong> S28</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>Shifting States</strong>"], "effect": ["<p>Change the type of a Capture Card from Rain to Wood and vice-versa.</p>"], "attributes": ["<li><strong>Number:</strong> S26</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>Stormy Skies</strong>"], "effect": ["<p>Change the type of a Capture Card from Clouds to Electricity and vice-versa.</p>"], "attributes": ["<li><strong>Number:</strong> S27</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>Sunny Skies</strong>"], "effect": ["<p>Block the capture of a type Clouds or Rain Clow Spirit card for this turn.</p>"], "attributes": ["<li><strong>Number:</strong> S31</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>The Bubbles</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS44</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Rain</li>"]}, {"name": ["<strong>The Clouds</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS47</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Clouds</li>"]}, {"name": ["<strong>The Create</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS32</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Water</li>"]}, {"name": ["<strong>The Dark</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS48</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Clouds</li>"]}, {"name": ["<strong>The Earthy</strong>"], "effect": ["<p>[Major Clow Spirit]</p>"], "attributes": ["<li><strong>Number:</strong> CS35</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Earth</li>"]}, {"name": ["<strong>The Float</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS49</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Clouds</li>"]}, {"name": ["<strong>The Fly</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS52</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Clouds</li>"]}, {"name": ["<strong>The Illusion</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS38</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Earth</li>"]}, {"name": ["<strong>The Libra</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS33</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Water</li>"]}, {"name": ["<strong>The Loop</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS45</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Rain</li>"]}, {"name": ["<strong>The Maze</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS39</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Earth</li>"]}, {"name": ["<strong>The Mist</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS50</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Clouds</li>"]}, {"name": ["<strong>The Move</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS31</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Water</li>"]}, {"name": ["<strong>The Rain</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS41</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Rain</li>"]}, {"name": ["<strong>The Return</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS34</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Water</li>"]}, {"name": ["<strong>The Sand</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS36</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Earth</li>"]}, {"name": ["<strong>The Shot</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS40</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Earth</li>"]}, {"name": ["<strong>The Silent</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS51</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Clouds</li>"]}, {"name": ["<strong>The Snow</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS46</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Rain</li>"]}, {"name": ["<strong>The Storm</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS42</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Rain</li>"]}, {"name": ["<strong>The Through</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS43</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Rain</li>"]}, {"name": ["<strong>The Twin</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS37</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Earth</li>"]}, {"name": ["<strong>The Watery</strong>"], "effect": ["<p>[Major Clow Spirit]</p>"], "attributes": ["<li><strong>Number:</strong> CS29</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Water</li>"]}, {"name": ["<strong>The Wave</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS30</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Water</li>"]}, {"name": ["<strong>Tie Breaker Drain</strong>"], "effect": ["<p>Subtract 500 from your opopnent's Battle Value.</p>"], "attributes": ["<li><strong>Number:</strong> S33</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>Tori</strong>"], "effect": ["<p>[Character type: Skilled]</p>"], "attributes": ["<li><strong>Number:</strong> C86</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Clouds/Wood</li>", "<li><strong>Attack:</strong> 5000</li>"]}, {"name": ["<strong>Tori</strong>"], "effect": ["<p>[Character type: Skilled]</p>"], "attributes": ["<li><strong>Number:</strong> C87</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Earth/Rain</li>", "<li><strong>Attack:</strong> 4000</li>"]}, {"name": ["<strong>Tori</strong>"], "effect": ["<p>[Character type: Skilled]</p>"], "attributes": ["<li><strong>Number:</strong> C88</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Gold/Water</li>", "<li><strong>Attack:</strong> 3000</li>"]}, {"name": ["<strong>Use the Clow</strong>"], "effect": ["<p>Attach to a captured Clow Spirit card. The card is a Major Clow Spirit for this turn only.</p>"], "attributes": ["<li><strong>Number:</strong> S25</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>Yue's Judgement</strong>"], "effect": ["<p>Subtract 4000 from your opponent's Battle Value.</p>"], "attributes": ["<li><strong>Number:</strong> S38</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}]}
+{
+    "set_name": "Series 2",
+    "cards": [{
+            "name": ["Aiden Avalon Boost"],
+            "effect": ["Add 1000 to the Battle Value of Sakura and/or Tori."],
+            "number": "S34",
+            "rarity": "Common",
+            "card_type": "Strategy"
+        }, {
+            "name": ["Alchemy"],
+            "effect": ["Change any Clow Spirit card type to Gold for this turn only."],
+            "number": "S32",
+            "rarity": "Uncommon",
+            "card_type": "Strategy"
+        }, {
+            "name": ["Burning Drain"],
+            "effect": ["Subtract 2000 from the Battle Value of Wood-, Fire-, and/or Electricity-type Capture cards"],
+            "number": "S40",
+            "rarity": "Common",
+            "card_type": "Strategy"
+        }, {
+            "name": ["Cereberos Arrives!"],
+            "effect": ["Add 4000 to your Battle Value."],
+            "number": "S37",
+            "rarity": "Rare",
+            "card_type": "Strategy"
+        }, {
+            "name": ["Clow Reed Drain"],
+            "effect": ["Subract 1000 from the Battle Value of any Capture card that is not Sakura or Li Showron."],
+            "number": "S41",
+            "rarity": "Common",
+            "card_type": "Strategy"
+        }, {
+            "name": ["Flaming Boost"],
+            "effect": ["Add 2000 to the Battle Value of Wood-, Fire-, and/or Electricity-type Capture cards."],
+            "number": "S36",
+            "rarity": "Common",
+            "card_type": "Strategy"
+        }, {
+            "name": ["Fluid Drain"],
+            "effect": ["Subtract 3000 from the Battle Value of Water-, Rain-, and/or Clouds-type Capture cards."],
+            "number": "S39",
+            "rarity": "Rare",
+            "card_type": "Strategy"
+        }, {
+            "name": ["Julian"],
+            "effect": ["[Character type: Non-magical]"],
+            "number": "C83",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Gold/Electricity",
+            "attack": "3000"
+        }, {
+            "name": ["Julian"],
+            "effect": ["[Character type: Non-magical]"],
+            "number": "C84",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Earth/Water",
+            "attack": "3000"
+        }, {
+            "name": ["Julian"],
+            "effect": ["[Character type: Non-magical]"],
+            "number": "C85",
+            "rarity": "Rare",
+            "card_type": "Capture",
+            "element": "Clouds/Rain",
+            "attack": "5000"
+        }, {
+            "name": ["Kero"],
+            "effect": ["[Character type: Magical] "],
+            "number": "C71",
+            "rarity": "Common",
+            "card_type": "Capture",
+            "element": "Clouds/Water",
+            "attack": "2000"
+        }, {
+            "name": ["Kero"],
+            "effect": ["[Character type: Magical] "],
+            "number": "C72",
+            "rarity": "Rare",
+            "card_type": "Capture",
+            "element": "Clouds",
+            "attack": "5000"
+        }, {
+            "name": ["Kero"],
+            "effect": ["[Character type: Magical]"],
+            "number": "C73",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Earth/Wind",
+            "attack": "3000"
+        }, {
+            "name": ["Kero"],
+            "effect": ["[Character type: Magical] "],
+            "number": "C74",
+            "rarity": "Common",
+            "card_type": "Capture",
+            "element": "Gold/Rain",
+            "attack": "5000"
+        }, {
+            "name": ["Kero"],
+            "effect": ["[Character type: Magical] "],
+            "number": "C75",
+            "rarity": "Common",
+            "card_type": "Capture",
+            "element": "Rain/Water",
+            "attack": "2000"
+        }, {
+            "name": ["Kero"],
+            "effect": ["[Character type: Magical] "],
+            "number": "C76",
+            "rarity": "Common",
+            "card_type": "Capture",
+            "element": "Clouds/Earth",
+            "attack": "3000"
+        }, {
+            "name": ["Kero"],
+            "effect": ["[Character type: Magical]"],
+            "number": "R15",
+            "rarity": "Common",
+            "card_type": "Reinforcement"
+        }, {
+            "name": ["Layla Mackenzie"],
+            "effect": ["[Character type: Magical] "],
+            "number": "C44",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Clouds/Wind",
+            "attack": "3000"
+        }, {
+            "name": ["Layla Mackenzie"],
+            "effect": ["[Character type: Magical] "],
+            "number": "C45",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Fire/Rain",
+            "attack": "3000"
+        }, {
+            "name": ["Layla Mackenzie"],
+            "effect": ["[Character type: Magical] "],
+            "number": "C46",
+            "rarity": "Rare",
+            "card_type": "Capture",
+            "element": "Earth/Wind",
+            "attack": "5000"
+        }, {
+            "name": ["Layla Mackenzie"],
+            "effect": ["[Character type: Magical] "],
+            "number": "C47",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Electricity/Water",
+            "attack": "3000"
+        }, {
+            "name": ["Layla Mackenzie"],
+            "effect": ["[Character type: Magical] "],
+            "number": "C48",
+            "rarity": "Common",
+            "card_type": "Capture",
+            "element": "Gold/Water",
+            "attack": "2000"
+        }, {
+            "name": ["Layla Mackenzie"],
+            "effect": ["[Character type: Magical] "],
+            "number": "C49",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Clouds/Electricity",
+            "attack": "4000"
+        }, {
+            "name": ["Layla Mackenzie"],
+            "effect": ["[Character type: Magical] "],
+            "number": "C50",
+            "rarity": "Common",
+            "card_type": "Capture",
+            "element": "Rain/Wood",
+            "attack": "2000"
+        }, {
+            "name": ["Layla Mackenzie"],
+            "effect": ["[Character type: Magical] "],
+            "number": "C51",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Earth/Wind",
+            "attack": "4000"
+        }, {
+            "name": ["Layla Mackenzie"],
+            "effect": ["[Character type: Magical] "],
+            "number": "C52",
+            "rarity": "Rare",
+            "card_type": "Capture",
+            "element": "Fire/Gold",
+            "attack": "5000"
+        }, {
+            "name": ["Layla Mackenzie"],
+            "effect": ["[Character type: Magical] "],
+            "number": "R12",
+            "rarity": "Common",
+            "card_type": "Reinforcement"
+        }, {
+            "name": ["Layla Mackenzie/Tori"],
+            "effect": ["[Character type: Magical/Skilled]"],
+            "number": "R13",
+            "rarity": "Uncommon",
+            "card_type": "Reinforcement"
+        }, {
+            "name": ["Li Showron"],
+            "effect": ["[Character type: Magical] "],
+            "number": "C65",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Rain",
+            "attack": "4000"
+        }, {
+            "name": ["Li Showron"],
+            "effect": ["[Character type: Magical]"],
+            "number": "C66",
+            "rarity": "Common",
+            "card_type": "Capture",
+            "element": "Clouds/Rain",
+            "attack": "2000"
+        }, {
+            "name": ["Li Showron"],
+            "effect": ["[Character type: Magical]"],
+            "number": "C67",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Earth/Water",
+            "attack": "4000"
+        }, {
+            "name": ["Li Showron"],
+            "effect": ["[Character type: Magical] "],
+            "number": "C68",
+            "rarity": "Rare",
+            "card_type": "Capture",
+            "element": "Earth/Gold",
+            "attack": "5000"
+        }, {
+            "name": ["Li Showron"],
+            "effect": ["[Character type: Magical]"],
+            "number": "C69",
+            "rarity": "Common",
+            "card_type": "Capture",
+            "element": "Earth/Clouds",
+            "attack": "2000"
+        }, {
+            "name": ["Li Showron"],
+            "effect": ["[Character type: Magical]"],
+            "number": "C70",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Rain/Water",
+            "attack": "3000"
+        }, {
+            "name": ["Li Showron's Board"],
+            "effect": ["Play on Li Showron Capture or Reinforcement card. No Strategy cards may be used against him his turn."],
+            "number": "S30",
+            "rarity": "Rare",
+            "card_type": "Strategy"
+        }, {
+            "name": ["Liquid Boost"],
+            "effect": ["Add 3000 to the Battle Value of Water-, Rain-, and/or Clouds-type Capture cards."],
+            "number": "S35",
+            "rarity": "Rare",
+            "card_type": "Strategy"
+        }, {
+            "name": ["Madison"],
+            "effect": ["[Character type: Non-magical]"],
+            "number": "C59",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Clouds/Wood",
+            "attack": "4000"
+        }, {
+            "name": ["Madison"],
+            "effect": ["[Character type: Non-magical]"],
+            "number": "C60",
+            "rarity": "Common",
+            "card_type": "Capture",
+            "element": "Fire/Rain",
+            "attack": "2000"
+        }, {
+            "name": ["Madison"],
+            "effect": ["[Character type: Non-magical]"],
+            "number": "C61",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Earth/Electricity",
+            "attack": "3000"
+        }, {
+            "name": ["Madison"],
+            "effect": ["[Character type: Non-magical]"],
+            "number": "C62",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Gold/Water",
+            "attack": "4000"
+        }, {
+            "name": ["Madison"],
+            "effect": ["[Character type: Non-magical]"],
+            "number": "C63",
+            "rarity": "Rare",
+            "card_type": "Capture",
+            "element": "Earth/Water",
+            "attack": "5000"
+        }, {
+            "name": ["Madison"],
+            "effect": ["[Character type: Non-magical]"],
+            "number": "C64",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Clouds/Rain",
+            "attack": "3000"
+        }, {
+            "name": ["Madison/Meilin"],
+            "effect": ["[Character type: Nonmagical / Skilled]"],
+            "number": "R14",
+            "rarity": "Rare",
+            "card_type": "Reinforcement"
+        }, {
+            "name": ["Meilin"],
+            "effect": ["[Character type: Skilled]"],
+            "number": "C77",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Clouds/Water",
+            "attack": "4000"
+        }, {
+            "name": ["Meilin"],
+            "effect": ["[Character type: Skilled]"],
+            "number": "C78",
+            "rarity": "Common",
+            "card_type": "Capture",
+            "element": "Earth",
+            "attack": "2000"
+        }, {
+            "name": ["Meilin"],
+            "effect": ["[Character type: Skilled]"],
+            "number": "C79",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Rain/Wind",
+            "attack": "4000"
+        }, {
+            "name": ["Meilin"],
+            "effect": ["[Character type: Skilled]"],
+            "number": "C80",
+            "rarity": "Common",
+            "card_type": "Capture",
+            "element": "Clouds/Gold",
+            "attack": "2000"
+        }, {
+            "name": ["Meilin"],
+            "effect": ["[Character type: Skilled]"],
+            "number": "C81",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Clouds/Rain",
+            "attack": "3000"
+        }, {
+            "name": ["Meilin"],
+            "effect": ["[Character type: Skilled]"],
+            "number": "C82",
+            "rarity": "Rare",
+            "card_type": "Capture",
+            "element": "Earth/Water",
+            "attack": "5000"
+        }, {
+            "name": ["Sakura"],
+            "effect": ["[Character type: Magical] "],
+            "number": "C53",
+            "rarity": "Rare",
+            "card_type": "Capture",
+            "element": "Rain/Water",
+            "attack": "5000"
+        }, {
+            "name": ["Sakura"],
+            "effect": ["[Character type: Magical] "],
+            "number": "C54",
+            "rarity": "Common",
+            "card_type": "Capture",
+            "element": "Earth/Water",
+            "attack": "2000"
+        }, {
+            "name": ["Sakura"],
+            "effect": ["[Character type: Magical] "],
+            "number": "C55",
+            "rarity": "Common",
+            "card_type": "Capture",
+            "element": "Fire/Rain",
+            "attack": "2000"
+        }, {
+            "name": ["Sakura"],
+            "effect": ["[Character type: Magical] "],
+            "number": "C56",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Clouds/Gold",
+            "attack": "4000"
+        }, {
+            "name": ["Sakura"],
+            "effect": ["[Character type: Magical] "],
+            "number": "C57",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Clouds/Water",
+            "attack": "3000"
+        }, {
+            "name": ["Sakura"],
+            "effect": ["[Character type: Magical] "],
+            "number": "C58",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Earth/Rain",
+            "attack": "4000"
+        }, {
+            "name": ["Sealing Wand"],
+            "effect": ["Play on Sakura Capture or Reinforcement card. No Strategy cards may be used against her this turn."],
+            "number": "S29",
+            "rarity": "Rare",
+            "card_type": "Strategy"
+        }, {
+            "name": ["Security Breach"],
+            "effect": ["Play at any time to see your opponent's hand."],
+            "number": "S28",
+            "rarity": "Rare",
+            "card_type": "Strategy"
+        }, {
+            "name": ["Shifting States"],
+            "effect": ["Change the type of a Capture Card from Rain to Wood and vice-versa."],
+            "number": "S26",
+            "rarity": "Common",
+            "card_type": "Strategy"]
+    },
+    {
+        "name": ["Stormy Skies"],
+        "effect": ["Change the type of a Capture Card from Clouds to Electricity and vice-versa."],
+        "number": "S27",
+        "rarity": "Common",
+        "card_type": "Strategy"]
+}, {
+    "name": ["Sunny Skies"],
+    "effect": ["Block the capture of a type Clouds or Rain Clow Spirit card for this turn."],
+    "number": "S31",
+    "rarity": "Uncommon",
+    "card_type": "Strategy"]
+}, {
+    "name": ["The Bubbles"],
+    "effect": [""],
+    "number": "CS44",
+    "rarity": "Common",
+    "card_type": "Clow",
+    "element": "Rain"
+}, {
+    "name": ["The Clouds"],
+    "effect": [""],
+    "number": "CS47",
+    "rarity": "Rare",
+    "card_type": "Clow",
+    "element": "Clouds"
+}, {
+    "name": ["The Create"],
+    "effect": [""],
+    "number": "CS32",
+    "rarity": "Common",
+    "card_type": "Clow",
+    "element": "Water"
+}, {
+    "name": ["The Dark"],
+    "effect": [""],
+    "number": "CS48",
+    "rarity": "Rare",
+    "card_type": "Clow",
+    "element": "Clouds"
+}, {
+    "name": ["The Earthy"],
+    "effect": ["[Major Clow Spirit]"],
+    "number": "CS35",
+    "rarity": "Rare",
+    "card_type": "Clow",
+    "element": "Earth"
+}, {
+    "name": ["The Float"],
+    "effect": [""],
+    "number": "CS49",
+    "rarity": "Uncommon",
+    "card_type": "Clow",
+    "element": "Clouds"
+}, {
+    "name": ["The Fly"],
+    "effect": [""],
+    "number": "CS52",
+    "rarity": "Rare",
+    "card_type": "Clow",
+    "element": "Clouds"
+}, {
+    "name": ["The Illusion"],
+    "effect": [""],
+    "number": "CS38",
+    "rarity": "Common",
+    "card_type": "Clow",
+    "element": "Earth"
+}, {
+    "name": ["The Libra"],
+    "effect": [""],
+    "number": "CS33",
+    "rarity": "Common",
+    "card_type": "Clow",
+    "element": "Water"
+}, {
+    "name": ["The Loop"],
+    "effect": [""],
+    "number": "CS45",
+    "rarity": "Common",
+    "card_type": "Clow",
+    "element": "Rain"
+}, {
+    "name": ["The Maze"],
+    "effect": [""],
+    "number": "CS39",
+    "rarity": "Common",
+    "card_type": "Clow",
+    "element": "Earth"
+}, {
+    "name": ["The Mist"],
+    "effect": [""],
+    "number": "CS50",
+    "rarity": "Common",
+    "card_type": "Clow",
+    "element": "Clouds"
+}, {
+    "name": ["The Move"],
+    "effect": [""],
+    "number": "CS31",
+    "rarity": "Uncommon",
+    "card_type": "Clow",
+    "element": "Water"
+}, {
+    "name": ["The Rain"],
+    "effect": [""],
+    "number": "CS41",
+    "rarity": "Rare",
+    "card_type": "Clow",
+    "element": "Rain"
+}, {
+    "name": ["The Return"],
+    "effect": [""],
+    "number": "CS34",
+    "rarity": "Rare",
+    "card_type": "Clow",
+    "element": "Water"
+}, {
+    "name": ["The Sand"],
+    "effect": [""],
+    "number": "CS36",
+    "rarity": "Uncommon",
+    "card_type": "Clow",
+    "element": "Earth"
+}, {
+    "name": ["The Shot"],
+    "effect": [""],
+    "number": "CS40",
+    "rarity": "Rare",
+    "card_type": "Clow",
+    "element": "Earth"
+}, {
+    "name": ["The Silent"],
+    "effect": [""],
+    "number": "CS51",
+    "rarity": "Common",
+    "card_type": "Clow",
+    "element": "Clouds"
+}, {
+    "name": ["The Snow"],
+    "effect": [""],
+    "number": "CS46",
+    "rarity": "Rare",
+    "card_type": "Clow",
+    "element": "Rain"
+}, {
+    "name": ["The Storm"],
+    "effect": [""],
+    "number": "CS42",
+    "rarity": "Rare",
+    "card_type": "Clow",
+    "element": "Rain"
+}, {
+    "name": ["The Through"],
+    "effect": [""],
+    "number": "CS43",
+    "rarity": "Uncommon",
+    "card_type": "Clow",
+    "element": "Rain"
+}, {
+    "name": ["The Twin"],
+    "effect": [""],
+    "number": "CS37",
+    "rarity": "Rare",
+    "card_type": "Clow",
+    "element": "Earth"
+}, {
+    "name": ["The Watery"],
+    "effect": ["[Major Clow Spirit]"],
+    "number": "CS29",
+    "rarity": "Rare",
+    "card_type": "Clow",
+    "element": "Water"
+}, {
+    "name": ["The Wave"],
+    "effect": [""],
+    "number": "CS30",
+    "rarity": "Rare",
+    "card_type": "Clow",
+    "element": "Water"
+}, {
+    "name": ["Tie Breaker Drain"],
+    "effect": ["Subtract 500 from your opopnent's Battle Value."],
+    "number": "S33",
+    "rarity": "Common",
+    "card_type": "Strategy"
+}, {
+    "name": ["Tori"],
+    "effect": ["[Character type: Skilled]"],
+    "number": "C86",
+    "rarity": "Rare",
+    "card_type": "Capture",
+    "element": "Clouds/Wood",
+    "attack": "5000"
+}, {
+    "name": ["Tori"],
+    "effect": ["[Character type: Skilled]"],
+    "number": "C87",
+    "rarity": "Uncommon",
+    "card_type": "Capture",
+    "element": "Earth/Rain",
+    "attack": "4000"
+}, {
+    "name": ["Tori"],
+    "effect": ["[Character type: Skilled]"],
+    "number": "C88",
+    "rarity": "Uncommon",
+    "card_type": "Capture",
+    "element": "Gold/Water",
+    "attack": "3000"
+}, {
+    "name": ["Use the Clow"],
+    "effect": ["Attach to a captured Clow Spirit card. The card is a Major Clow Spirit for this turn only."],
+    "number": "S25",
+    "rarity": "Rare",
+    "card_type": "Strategy"
+}, {
+    "name": ["Yue's Judgement"],
+    "effect": ["Subtract 4000 from your opponent's Battle Value."],
+    "number": "S38",
+    "rarity": "Rare",
+    "card_type": "Strategy"
+}]
+}

@@ -97,8 +97,8 @@
         "element": ["Wood"],
         "attack": "5000"
     }, {
-        "name": "Madison/Kero",
-        "character_type": "Non-Magical/Magical",
+        "name": "Madison / Kero",
+        "character_type": "Non-Magical / Magical",
         "number": "R3",
         "rarity": "Common",
         "card_type": "Reinforcement"
@@ -220,7 +220,7 @@
         "element": ["Fire"]
     }, {
         "name": ["The Firey"],
-        "major_clow_spirit" : true,
+        "major_clow_spirit": true,
         "number": "CS5",
         "rarity": "Common",
         "card_type": "Clow",
@@ -269,7 +269,7 @@
         "element": ["Electricity"]
     }, {
         "name": "The Windy",
-        "major_clow_spirit" : true,
+        "major_clow_spirit": true,
         "number": "CS1",
         "rarity": "Common",
         "card_type": "Clow",

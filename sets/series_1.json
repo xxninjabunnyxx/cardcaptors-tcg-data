@@ -1,1 +1,486 @@
-{"set_name": "Series 1", "url": "/im/selectCard/series_id/1409/goal/", "cards": [{"name": ["<strong>Boost Killer</strong>"], "effect": ["<p>Void any one of your opponent's \"Boost\" Strategy Cards.</p>"], "attributes": ["<li><strong>Number:</strong> S7</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>Change of Plans</strong>"], "effect": ["<p>Change Capture Card type from Fire to Electricity and vice versa.</p>"], "attributes": ["<li><strong>Number:</strong> S11</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>Clouds Power</strong>"], "effect": ["<p>Attach to your \"Power\" card. It is now a Major Clow Spirit until end of turn.</p>"], "attributes": ["<li><strong>Number:</strong> S16</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>Daring Capture</strong>"], "effect": ["<p>If you have captured a Clow Spirit Card this game, disregard Clow Spirit types for your capture attempts during this turn only.</p>"], "attributes": ["<li><strong>Number:</strong> S9</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>Drain Killer</strong>"], "effect": ["<p>Void any one of your opponent's \"Drain\" Strategy Cards.</p>"], "attributes": ["<li><strong>Number:</strong> S20</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>Elusive Clow</strong>"], "effect": ["<p>Play this card when a new Clow Spirit Card is flipped over from the Clow Spirit deck. Shuffle that Clow Spirit back into the Clow Spirit deck.</p>"], "attributes": ["<li><strong>Number:</strong> S8</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>Escaped Clow Spirit</strong>"], "effect": ["<p>Your opponent must return one captured Clow Spirit Card to the Clow Spirit pile and reshuffle.</p>"], "attributes": ["<li><strong>Number:</strong> S10</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>First on the Scene</strong>"], "effect": ["<p>Play this card after your opponent flips a Clow Spirit Card from the Clow Spirit deck. You may attempt a capture first this turn.</p>"], "attributes": ["<li><strong>Number:</strong> S14</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>Julian</strong>"], "effect": ["<p>[Character type: Non-magical}</p>"], "attributes": ["<li><strong>Number:</strong> C36</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Wind/Fire</li>", "<li><strong>Attack:</strong> 4000</li>"]}, {"name": ["<strong>Julian</strong>"], "effect": ["<p>[Character type: Non-magical]</p>"], "attributes": ["<li><strong>Number:</strong> C37</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Electricity</li>", "<li><strong>Attack:</strong> 4000</li>"]}, {"name": ["<strong>Julian</strong>"], "effect": ["<p>[Character type: Non-magical]</p>"], "attributes": ["<li><strong>Number:</strong> C38</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Wood</li>", "<li><strong>Attack:</strong> 5000</li>"]}, {"name": ["<strong>Julian</strong>"], "effect": ["<p>[Character type: Non-magical]</p>"], "attributes": ["<li><strong>Number:</strong> C39</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Gold</li>", "<li><strong>Attack:</strong> 2000</li>"]}, {"name": ["<strong>Julian</strong>"], "effect": ["<p>[Character type: Non-magical]</p>"], "attributes": ["<li><strong>Number:</strong> R4</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Reinforcement</li>"]}, {"name": ["<strong>Kero</strong>"], "effect": ["<p>[Character type: Magical]</p>"], "attributes": ["<li><strong>Number:</strong> C25</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Wood</li>", "<li><strong>Attack:</strong> 4000</li>"]}, {"name": ["<strong>Kero</strong>"], "effect": ["<p>[Character type: Magical]</p>"], "attributes": ["<li><strong>Number:</strong> C26</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Fire</li>", "<li><strong>Attack:</strong> 4000</li>"]}, {"name": ["<strong>Kero</strong>"], "effect": ["<p>[Character type: Magical]</p>"], "attributes": ["<li><strong>Number:</strong> C27</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Fire/Electricity</li>", "<li><strong>Attack:</strong> 5000</li>"]}, {"name": ["<strong>Kero</strong>"], "effect": ["<p>[Character type: Magical]</p>"], "attributes": ["<li><strong>Number:</strong> C28</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Gold</li>", "<li><strong>Attack:</strong> 3000</li>"]}, {"name": ["<strong>Li Showron</strong>"], "effect": ["<p>[Character type: Magical]</p>"], "attributes": ["<li><strong>Number:</strong> C18</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Wood</li>", "<li><strong>Attack:</strong> 3000</li>"]}, {"name": ["<strong>Li Showron</strong>"], "effect": ["<p>[Character type: Magical]</p>"], "attributes": ["<li><strong>Number:</strong> C19</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Wind/Wood</li>", "<li><strong>Attack:</strong> 5000</li>"]}, {"name": ["<strong>Li Showron</strong>"], "effect": ["<p>[Character type: Magical]</p>"], "attributes": ["<li><strong>Number:</strong> C20</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Fire</li>", "<li><strong>Attack:</strong> 4000</li>"]}, {"name": ["<strong>Li Showron</strong>"], "effect": ["<p>[Character type: Magical]</p>"], "attributes": ["<li><strong>Number:</strong> C21</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Gold</li>", "<li><strong>Attack:</strong> 4000</li>"]}, {"name": ["<strong>Li Showron/Meilin</strong>"], "effect": ["<p>[Character type: Magical/Skilled]</p>"], "attributes": ["<li><strong>Number:</strong> R7</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Reinforcement</li>"]}, {"name": ["<strong>Madison</strong>"], "effect": ["<p>[Character type: Non-magical]</p>"], "attributes": ["<li><strong>Number:</strong> C11</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Fire/Wood</li>", "<li><strong>Attack:</strong> 3000</li>"]}, {"name": ["<strong>Madison</strong>"], "effect": ["<p>[Character type: Non-magical]</p>"], "attributes": ["<li><strong>Number:</strong> C12</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Wind</li>", "<li><strong>Attack:</strong> 5000</li>"]}, {"name": ["<strong>Madison</strong>"], "effect": ["<p>[Character type: Non-magical]</p>"], "attributes": ["<li><strong>Number:</strong> C13</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Electricity</li>", "<li><strong>Attack:</strong> 4000</li>"]}, {"name": ["<strong>Madison</strong>"], "effect": ["<p>[Character type: Non-magical]</p>"], "attributes": ["<li><strong>Number:</strong> C14</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Gold</li>", "<li><strong>Attack:</strong> 2000</li>"]}, {"name": ["<strong>Madison</strong>"], "effect": ["<p>[Character type: Non-magical]</p>"], "attributes": ["<li><strong>Number:</strong> R8</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Reinforcement</li>"]}, {"name": ["<strong>Mega Boost</strong>"], "effect": ["<p>Add 3000 to your Battle Value.</p>"], "attributes": ["<li><strong>Number:</strong> S13</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>Mega Drain</strong>"], "effect": ["<p>Subtract 3000 from your opponent's Battle Value.</p>"], "attributes": ["<li><strong>Number:</strong> S19</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>Meilin</strong>"], "effect": ["<p>[Character type: Skilled]</p>"], "attributes": ["<li><strong>Number:</strong> C32</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Fire</li>", "<li><strong>Attack:</strong> 5000</li>"]}, {"name": ["<strong>Meilin</strong>"], "effect": ["<p>[Character type: Skilled]</p>"], "attributes": ["<li><strong>Number:</strong> C33</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Electricity</li>", "<li><strong>Attack:</strong> 4000</li>"]}, {"name": ["<strong>Meilin</strong>"], "effect": ["<p>[Character type: Skilled]</p>"], "attributes": ["<li><strong>Number:</strong> C34</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Wood/Electricity</li>", "<li><strong>Attack:</strong> 5000</li>"]}, {"name": ["<strong>Meilin</strong>"], "effect": ["<p>[Character type: Skilled]</p>"], "attributes": ["<li><strong>Number:</strong> C35</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Gold</li>", "<li><strong>Attack:</strong> 3000</li>"]}, {"name": ["<strong>Meilin</strong>"], "effect": ["<p>[Character type: Skilled]</p>"], "attributes": ["<li><strong>Number:</strong> R5</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Reinforcement</li>"]}, {"name": ["<strong>Power Drain</strong>"], "effect": ["<p>Subtract 1000 from your opponent's Battle Value.</p>"], "attributes": ["<li><strong>Number:</strong> S17</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>Rain Power</strong>"], "effect": ["<p>Attach to your \"Wood\" card. It is now a Major Clow Spirit until end of turn.</p>"], "attributes": ["<li><strong>Number:</strong> S15</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>Sakura</strong>"], "effect": ["<p>[Character type: Magical]</p>"], "attributes": ["<li><strong>Number:</strong> C5</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Wood</li>", "<li><strong>Attack:</strong> 2000</li>"]}, {"name": ["<strong>Sakura</strong>"], "effect": ["<p>[Character type: Magical]</p>"], "attributes": ["<li><strong>Number:</strong> C6</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Wind/Electricity</li>", "<li><strong>Attack:</strong> 5000</li>"]}, {"name": ["<strong>Sakura</strong>"], "effect": ["<p>[Character type: Magical]</p>"], "attributes": ["<li><strong>Number:</strong> C7</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Gold</li>", "<li><strong>Attack:</strong> 5000</li>"]}, {"name": ["<strong>Sakura/Kero</strong>"], "effect": ["<p>[Character type: Magical] </p>"], "attributes": ["<li><strong>Number:</strong> R6</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Reinforcement</li>"]}, {"name": ["<strong>Sakura/Li Showron</strong>"], "effect": ["<p>[Character type: Magical]</p>"], "attributes": ["<li><strong>Number:</strong> R10</li>", "<li><strong>Rarity:</strong> Rare</li>", "<li><strong>Card Type:</strong> Reinforcement</li>"]}, {"name": ["<strong>Strength in Numbers</strong>"], "effect": ["<p>Play this card after battle. You may draw an extra card this turn.</p>"], "attributes": ["<li><strong>Number:</strong> S21</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>Super Boost</strong>"], "effect": ["<p>Add 2000 to your Battle Value.</p>"], "attributes": ["<li><strong>Number:</strong> S12</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>Super Drain</strong>"], "effect": ["<p>Subtract 2000 from your opponent's Battle Value.</p>"], "attributes": ["<li><strong>Number:</strong> S18</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Strategy</li>"]}, {"name": ["<strong>The Arrow</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS21</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Fire</li>"]}, {"name": ["<strong>The Flower</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS26</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Wood</li>"]}, {"name": ["<strong>The Light</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS27</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Electricity</li>"]}, {"name": ["<strong>The Little</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS22</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Fire</li>"]}, {"name": ["<strong>The Lock</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS18</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Gold</li>"]}, {"name": ["<strong>The Shadow</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS28</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Electricity</li>"]}, {"name": ["<strong>The Shield</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS25</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Wood</li>"]}, {"name": ["<strong>The Sleep</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS19</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Gold</li>"]}, {"name": ["<strong>The Song</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS24</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Wind</li>"]}, {"name": ["<strong>The Sweet</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS20</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Gold</li>"]}, {"name": ["<strong>The Time</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS17</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Gold</li>"]}, {"name": ["<strong>The Voice</strong>"], "effect": ["<p></p>"], "attributes": ["<li><strong>Number:</strong> CS23</li>", "<li><strong>Rarity:</strong> Common</li>", "<li><strong>Card Type:</strong> Clow</li>", "<li><strong>Element:</strong> Wind</li>"]}, {"name": ["<strong>Tori</strong>"], "effect": ["<p>[Character type: Skilled]</p>"], "attributes": ["<li><strong>Number:</strong> C40</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Electricity</li>", "<li><strong>Attack:</strong> 5000</li>"]}, {"name": ["<strong>Tori</strong>"], "effect": ["<p>[Character type: Skilled]</p>"], "attributes": ["<li><strong>Number:</strong> C41</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Wind</li>", "<li><strong>Attack:</strong> 4000</li>"]}, {"name": ["<strong>Tori</strong>"], "effect": ["<p>[Character type: Skilled]</p>"], "attributes": ["<li><strong>Number:</strong> C42</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Capture</li>", "<li><strong>Element:</strong> Gold</li>", "<li><strong>Attack:</strong> 2000</li>"]}, {"name": ["<strong>Tori/Julian</strong>"], "effect": ["<p>[Character type: Skilled/Non-magical]</p>"], "attributes": ["<li><strong>Number:</strong> R9</li>", "<li><strong>Rarity:</strong> Uncommon</li>", "<li><strong>Card Type:</strong> Reinforcement</li>"]}]}
+{
+    "set_name": "Series 1",
+    "cards": [{
+            "name": "Boost Killer",
+            "effect": "Void any one of your opponent's 'Boost' Strategy Cards.",
+            "number": "S7",
+            "rarity": "Rare",
+            "card_type": "Strategy"
+        },
+        {
+            "name": "Change of Plans",
+            "effect": "Change Capture Card type from Fire to Electricity and vice versa.",
+            "number": "S11",
+            "rarity": "Common",
+            "card_type": "Strategy"
+        },
+        {
+            "name": "Clouds Power",
+            "effect": "Attach to your 'Power' card. It is now a Major Clow Spirit until end of turn.",
+            "number": "S16",
+            "rarity": "Rare",
+            "card_type": "Strategy"
+        },
+        {
+            "name": "Daring Capture",
+            "effect": "If you have captured a Clow Spirit Card this game, disregard Clow Spirit types for your capture attempts during this turn only.",
+            "number": "S9",
+            "rarity": "Rare",
+            "card_type": "Strategy"
+        },
+        {
+            "name": "Drain Killer",
+            "effect": "Void any one of your opponent's 'Drain' Strategy Cards.",
+            "number": "S20",
+            "rarity": "Rare",
+            "card_type": "Strategy"
+        },
+        {
+            "name": "Elusive Clow",
+            "effect": "Play this card when a new Clow Spirit Card is flipped over from the Clow Spirit deck. Shuffle that Clow Spirit back into the Clow Spirit deck.",
+            "number": "S8",
+            "rarity": "Uncommon",
+            "card_type": "Strategy"
+        },
+        {
+            "name": "Escaped Clow Spirit",
+            "effect": "Your opponent must return one captured Clow Spirit Card to the Clow Spirit pile and reshuffle.",
+            "number": "S10",
+            "rarity": "Rare",
+            "card_type": "Strategy"
+        },
+        {
+            "name": "First on the Scene",
+            "effect": "Play this card after your opponent flips a Clow Spirit Card from the Clow Spirit deck. You may attempt a capture first this turn.",
+            "number": "S14",
+            "rarity": "Common",
+            "card_type": "Strategy"
+        },
+        {
+            "name": "Julian",
+            "character_type":"Non-magical",
+            "number": "C36",
+            "rarity": "Rare",
+            "card_type": "Capture",
+            "element": ["Wind","Fire"],
+            "attack": "4000"
+        },
+        {
+            "name": "Julian",
+            "character_type":"Non-magical",
+            "number": "C37",
+            "rarity": "Rare",
+            "card_type": "Capture",
+            "element": "Electricity",
+            "attack": "4000"
+        },
+        {
+            "name": "Julian",
+            "character_type":"Non-magical",
+            "number": "C38",
+            "rarity": "Rare",
+            "card_type": "Capture",
+            "element": "Wood",
+            "attack": "5000"
+        },
+        {
+            "name": "Julian",
+            "character_type":"Non-magical",
+            "number": "C39",
+            "rarity": "Rare",
+            "card_type": "Capture",
+            "element": "Gold",
+            "attack": "2000"
+        },
+        {
+            "name": "Julian",
+            "character_type":"Non-magical",
+            "number": "R4",
+            "rarity": "Common",
+            "card_type": "Reinforcement"
+        },
+        {
+            "name": ["Kero"],
+            "effect": ["[character_type:Magical]"],
+            "number": "C25",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Wood",
+            "attack": "4000"
+        }, {
+            "name": ["Kero"],
+            "effect": ["[character_type:Magical]"],
+            "number": "C26",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Fire",
+            "attack": "4000"
+        },
+        {
+            "name": ["Kero"],
+            "effect": ["[character_type:Magical]"],
+            "number": "C27",
+            "rarity": "Rare",
+            "card_type": "Capture",
+            "element": "Fire  /  Electricity",
+            "attack": "5000"
+        },
+        {
+            "name": ["Kero"],
+            "effect": ["[character_type:Magical]"],
+            "number": "C28",
+            "rarity": "Common",
+            "card_type": "Capture",
+            "element": "Gold",
+            "attack": "3000"
+        },
+        {
+            "name": ["Li Showron"],
+            "effect": ["[character_type:Magical]"],
+            "number": "C18",
+            "rarity": "Common",
+            "card_type": "Capture",
+            "element": "Wood",
+            "attack": "3000"
+        },
+        {
+            "name": ["Li Showron"],
+            "effect": ["[character_type:Magical]"],
+            "number": "C19",
+            "rarity": "Rare",
+            "card_type": "Capture",
+            "element": "Wind  /  Wood",
+            "attack": "5000"
+        },
+        {
+            "name": ["Li Showron"],
+            "effect": ["[character_type:Magical]"],
+            "number": "C20",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Fire",
+            "attack": "4000"
+        }, {
+            "name": ["Li Showron"],
+            "effect": ["[character_type:Magical]"],
+            "number": "C21",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Gold",
+            "attack": "4000"
+        },
+        {
+            "name": ["Li Showron  /  Meilin"],
+            "effect": ["[character_type:Magical  /  Skilled]"],
+            "number": "R7",
+            "rarity": "Uncommon",
+            "card_type": "Reinforcement"
+        },
+        {
+            "name": ["Madison"],
+            "effect": ["[character_type:Non-magical]"],
+            "number": "C11",
+            "rarity": "Rare",
+            "card_type": "Capture",
+            "element": "Fire / Wood",
+            "attack": "3000"
+        },
+        {
+            "name": ["Madison"],
+            "effect": ["[character_type:Non-magical]"],
+            "number": "C12",
+            "rarity": "Rare",
+            "card_type": "Capture",
+            "element": "Wind",
+            "attack": "5000"
+        },
+        {
+            "name": ["Madison"],
+            "effect": ["[character_type:Non-magical]"],
+            "number": "C13",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Electricity",
+            "attack": "4000"
+        },
+        {
+            "name": ["Madison"],
+            "effect": ["[character_type:Non-magical]"],
+            "number": "C14",
+            "rarity": "Common",
+            "card_type": "Capture",
+            "element": "Gold",
+            "attack": "2000"
+        },
+        {
+            "name": ["Madison"],
+            "effect": ["[character_type:Non-magical]"],
+            "number": "R8",
+            "rarity": "Common",
+            "card_type": "Reinforcement"
+        },
+        {
+            "name": ["Mega Boost"],
+            "effect": ["Add 3000 to your Battle Value."],
+            "number": "S13",
+            "rarity": "Rare",
+            "card_type": "Strategy"
+        },
+        {
+            "name": ["Mega Drain"],
+            "effect": ["Subtract 3000 from your opponent's Battle Value."],
+            "number": "S19",
+            "rarity": "Rare",
+            "card_type": "Strategy"
+        },
+        {
+            "name": ["Meilin"],
+            "effect": ["[character_type:Skilled]"],
+            "number": "C32",
+            "rarity": "Rare",
+            "card_type": "Capture",
+            "element": "Fire",
+            "attack": "5000"
+        },
+        {
+            "name": ["Meilin"],
+            "effect": ["[character_type:Skilled]"],
+            "number": "C33",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Electricity",
+            "attack": "4000"
+        },
+        {
+            "name": ["Meilin"],
+            "effect": ["[character_type:Skilled]"],
+            "number": "C34",
+            "rarity": "Rare",
+            "card_type": "Capture",
+            "element": "Wood / Electricity",
+            "attack": "5000"
+        },
+        {
+            "name": ["Meilin"],
+            "effect": ["[character_type:Skilled]"],
+            "number": "C35",
+            "rarity": "Common",
+            "card_type": "Capture",
+            "element": "Gold",
+            "attack": "3000"
+        },
+        {
+            "name": ["Meilin"],
+            "effect": ["[character_type:Skilled]"],
+            "number": "R5",
+            "rarity": "Common",
+            "card_type": "Reinforcement"
+        },
+        {
+            "name": ["Power Drain"],
+            "effect": ["Subtract 1000 from your opponent's Battle Value."],
+            "number": "S17",
+            "rarity": "Common",
+            "card_type": "Strategy"
+        },
+        {
+            "name": ["Rain Power"],
+            "effect": ["Attach to your 'Wood' card. It is now a Major Clow Spirit until end of turn."],
+            "number": "S15",
+            "rarity": "Rare",
+            "card_type": "Strategy"
+        },
+        {
+            "name": ["Sakura"],
+            "effect": ["[character_type:Magical]"],
+            "number": "C5",
+            "rarity": "Common",
+            "card_type": "Capture",
+            "element": "Wood",
+            "attack": "2000"
+        },
+        {
+            "name": ["Sakura"],
+            "effect": ["[character_type:Magical]"],
+            "number": "C6",
+            "rarity": "Rare",
+            "card_type": "Capture",
+            "element": "Wind / Electricity",
+            "attack": "5000"
+        },
+        {
+            "name": ["Sakura"],
+            "effect": ["[character_type:Magical]"],
+            "number": "C7",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Gold",
+            "attack": "5000"
+        },
+        {
+            "name": ["Sakura / Kero"],
+            "effect": ["[character_type:Magical] "],
+            "number": "R6",
+            "rarity": "Uncommon",
+            "card_type": "Reinforcement"
+        },
+        {
+            "name": ["Sakura / Li Showron"],
+            "effect": ["[character_type:Magical]"],
+            "number": "R10",
+            "rarity": "Rare",
+            "card_type": "Reinforcement"
+        },
+        {
+            "name": ["Strength in Numbers"],
+            "effect": ["Play this card after battle. You may draw an extra card this turn."],
+            "number": "S21",
+            "rarity": "Common",
+            "card_type": "Strategy"
+        },
+        {
+            "name": ["Super Boost"],
+            "effect": ["Add 2000 to your Battle Value."],
+            "number": "S12",
+            "rarity": "Uncommon",
+            "card_type": "Strategy"
+        },
+        {
+            "name": ["Super Drain"],
+            "effect": ["Subtract 2000 from your opponent's Battle Value."],
+            "number": "S18",
+            "rarity": "Uncommon",
+            "card_type": "Strategy"
+        },
+        {
+            "name": ["The Arrow"],
+            "effect": [""],
+            "number": "CS21",
+            "rarity": "Uncommon",
+            "card_type": "Clow",
+            "element": "Fire"
+        },
+        {
+            "name": ["The Flower"],
+            "effect": [""],
+            "number": "CS26",
+            "rarity": "Common",
+            "card_type": "Clow",
+            "element": "Wood"
+        },
+        {
+            "name": ["The Light"],
+            "effect": [""],
+            "number": "CS27",
+            "rarity": "Common",
+            "card_type": "Clow",
+            "element": "Electricity"
+        },
+        {
+            "name": ["The Little"],
+            "effect": [""],
+            "number": "CS22",
+            "rarity": "Common",
+            "card_type": "Clow",
+            "element": "Fire"
+        },
+        {
+            "name": ["The Lock"],
+            "effect": [""],
+            "number": "CS18",
+            "rarity": "Uncommon",
+            "card_type": "Clow",
+            "element": "Gold"
+        },
+        {
+            "name": ["The Shadow"],
+            "effect": [""],
+            "number": "CS28",
+            "rarity": "Common",
+            "card_type": "Clow",
+            "element": "Electricity"
+        },
+        {
+            "name": ["The Shield"],
+            "effect": [""],
+            "number": "CS25",
+            "rarity": "Common",
+            "card_type": "Clow",
+            "element": "Wood"
+        },
+        {
+            "name": ["The Sleep"],
+            "effect": [""],
+            "number": "CS19",
+            "rarity": "Uncommon",
+            "card_type": "Clow",
+            "element": "Gold"
+        },
+        {
+            "name": ["The Song"],
+            "effect": [""],
+            "number": "CS24",
+            "rarity": "Common",
+            "card_type": "Clow",
+            "element": "Wind"
+        },
+        {
+            "name": ["The Sweet"],
+            "effect": [""],
+            "number": "CS20",
+            "rarity": "Uncommon",
+            "card_type": "Clow",
+            "element": "Gold"
+        },
+        {
+            "name": ["The Time"],
+            "effect": [""],
+            "number": "CS17",
+            "rarity": "Uncommon",
+            "card_type": "Clow",
+            "element": "Gold"
+        },
+        {
+            "name": ["The Voice"],
+            "effect": [""],
+            "number": "CS23",
+            "rarity": "Common",
+            "card_type": "Clow",
+            "element": "Wind"
+        },
+        {
+            "name": ["Tori"],
+            "effect": ["[character_type:Skilled]"],
+            "number": "C40",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Electricity",
+            "attack": "5000"
+        },
+        {
+            "name": ["Tori"],
+            "effect": ["[character_type:Skilled]"],
+            "number": "C41",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Wind",
+            "attack": "4000"
+        },
+        {
+            "name": ["Tori"],
+            "effect": ["[character_type:Skilled]"],
+            "number": "C42",
+            "rarity": "Uncommon",
+            "card_type": "Capture",
+            "element": "Gold",
+            "attack": "2000"
+        },
+        {
+            "name": "Tori / Julian",
+            "character_type" : [ "Skilled", "Non-magical"],
+            "number": "R9",
+            "rarity": "Uncommon",
+            "card_type": "Reinforcement"
+        }
+    ]
+}
