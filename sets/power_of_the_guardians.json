@@ -2,451 +2,453 @@
     "set_name": "Power of the Guardians",
     "url": "/im/selectCard/series_id/2147/goal/",
     "cards": [{
-        "name": ["A Master's Love"],
-        "effect": ["You may discard a Capture Card or Reinforcement Card that features any character when you send Keroberos or Yue On Scene. You must still discard the type of card required to send that character On Scene."],
+        "name": "A Master's Love",
+        "effect": "You may discard a Capture Card or Reinforcement Card that features any character when you send Keroberos or Yue On Scene. You must still discard the type of card required to send that character On Scene.",
         "number": "S53",
         "rarity": "Uncommon",
         "card_type": "Strategy"
     }, {
-        "name": ["An Angel Beside Me"],
-        "effect": ["Play during your turn only, and only before you make any Capture Attempt. Search your deck for a Nonmagical (green) Capture Card that has 3000 Battle Value or less or for a Nonmagical (green) Reinforcement Card. Add that card to your hand. Then, shuffle your deck."],
+        "name": "An Angel Beside Me",
+        "effect": "Play during your turn only, and only before you make any Capture Attempt. Search your deck for a Nonmagical (green) Capture Card that has 3000 Battle Value or less or for a Nonmagical (green) Reinforcement Card. Add that card to your hand. Then, shuffle your deck.",
         "number": "S48 ",
         "rarity": "Rare",
         "card_type": "Strategy "
     }, {
-        "name": ["Bodyguards"],
-        "effect": ["Play this card during the Replenish Step, but before you draw cards. Search your deck for a Reinforcement Card that features a Nonmagical (green) character. Add that card to your hand. Then, shuffle your deck."],
+        "name": "Bodyguards",
+        "effect": "Play this card during the Replenish Step, but before you draw cards. Search your deck for a Reinforcement Card that features a Nonmagical (green) character. Add that card to your hand. Then, shuffle your deck.",
         "number": "S58",
         "rarity": "Common",
         "card_type": "Strategy"
     }, {
-        "name": ["Boost Drain"],
-        "effect": ["Subtract 1000 points from your opponent's Battle Value, then add 1000 points to your Battle Value."],
+        "name": "Boost Drain",
+        "effect": "Subtract 1000 points from your opponent's Battle Value, then add 1000 points to your Battle Value.",
         "number": "S56",
         "rarity": "Uncommon",
         "card_type": "Strategy"
     }, {
-        "name": ["Change in Events"],
-        "effect": ["Put one of your captured Clow Spirit Cards from your Clow Spirit Pile back into your Pile. Put any Non-major Clow Spirit Card from your Pile into play. Then, shuffle your Pile."],
+        "name": "Change in Events",
+        "effect": "Put one of your captured Clow Spirit Cards from your Clow Spirit Pile back into your Pile. Put any Non-major Clow Spirit Card from your Pile into play. Then, shuffle your Pile.",
         "number": "S54",
         "rarity": "Uncommon",
         "card_type": "Strategy"
     }, {
-        "name": ["Crossed Wires"],
-        "effect": ["Play only during your turn. Switch the choice of characters on one opponent's Reinforcement Card that has two character choices on it. If the second character is already On Scene, void that Reinforcement Card instead."],
+        "name": "Crossed Wires",
+        "effect": "Play only during your turn. Switch the choice of characters on one opponent's Reinforcement Card that has two character choices on it. If the second character is already On Scene, void that Reinforcement Card instead.",
         "number": "S46",
         "rarity": "Uncommon",
         "card_type": "Strategy"
     }, {
-        "name": ["Dogged Pursuit"],
-        "effect": ["Void your opponent's strategy card that returns any Clow Spirit to the Clow Spirit deck."],
+        "name": "Dogged Pursuit",
+        "effect": "Void your opponent's strategy card that returns any Clow Spirit to the Clow Spirit deck.",
         "number": "S44",
         "rarity": "Rare",
         "card_type": "Strategy "
     }, {
-        "name": ["Double Drain"],
-        "effect": ["Halve the battle value of your opponent's Capture Card."],
+        "name": "Double Drain",
+        "effect": "Halve the battle value of your opponent's Capture Card.",
         "number": "S42",
         "rarity": "Uncommon",
         "card_type": "Strategy"
     }, {
-        "name": ["Expect the Unexpected"],
-        "effect": ["Play during your Replenish Step, but only in a turn that has had a Battle (i.e., a Capture Card was played by both players and Battle Values were compared). You may discard your entire hand during the replenish step of this turn."],
+        "name": "Expect the Unexpected",
+        "effect": "Play during your Replenish Step, but only in a turn that has had a Battle (i.e., a Capture Card was played by both players and Battle Values were compared). You may discard your entire hand during the replenish step of this turn.",
         "number": "S51",
         "rarity": "Common",
         "card_type": "Strategy"
     }, {
-        "name": ["Gather Together"],
-        "effect": ["Play during your Replenish Step, but only in a turn that has had a Battle (i.e., a Capture Card was played by both players and Battle Values were compared). Both you and your opponent may draw up to two extra cards this turn."],
+        "name": "Gather Together",
+        "effect": "Play during your Replenish Step, but only in a turn that has had a Battle (i.e., a Capture Card was played by both players and Battle Values were compared). Both you and your opponent may draw up to two extra cards this turn.",
         "number": "S43",
         "rarity": "Common",
         "card_type": "Strategy"
     }, {
-        "name": ["Julian"],
-        "effect": ["[Character type: Non-magical]"],
+        "name": "Julian",
+        "Character type": "Non-magical",
         "number": "C114",
         "rarity": "Uncommon",
         "card_type": "Capture",
         "element": "Rain / Wood",
         "attack": "2000"
     }, {
-        "name": ["Julian"],
-        "effect": ["[Character type: Non-magical]"],
+        "name": "Julian",
+        "Character type": "Non-magical",
         "number": "C115",
         "rarity": "Uncommon",
         "card_type": "Capture",
         "element": "Wind / Wood",
         "attack": "3000"
     }, {
-        "name": ["Julian"],
-        "effect": ["[Character type: Non-magical]"],
+        "name": "Julian",
+        "Character type": "Non-magical",
         "number": "C116",
         "rarity": "Rare",
         "card_type": "Capture",
         "element": "Fire / Gold",
         "attack": "4000"
     }, {
-        "name": ["Julian"],
-        "effect": ["[Character type: Non-magical]"],
+        "name": "Julian",
+        "Character type": "Non-magical",
         "number": "C117",
         "rarity": "Common",
         "card_type": "Capture",
         "element": "Wind / Electricity",
         "attack": "2000"
     }, {
-        "name": ["Julian"],
-        "effect": ["[Character type: Non-magical]"],
+        "name": "Julian",
+        "Character type": "Non-magical",
         "number": "C118",
         "rarity": "Uncommon",
         "card_type": "Capture",
         "element": "Earth / Water",
         "attack": "4000"
     }, {
-        "name": ["Julian"],
-        "effect": ["[Character type: Non-magical]"],
+        "name": "Julian",
+        "Character type": "Non-magical",
         "number": "C119",
         "rarity": "Uncommon",
         "card_type": "Capture",
         "element": "Rain",
         "attack": "5000"
     }, {
-        "name": ["Julian"],
-        "effect": ["[Character type: Non-magical]"],
+        "name": "Julian",
+        "Character type": "Non-magical",
         "number": "C120",
         "rarity": "Common",
         "card_type": "Capture",
         "element": "Rain / Water",
         "attack": "3000"
     }, {
-        "name": ["Julian"],
-        "effect": ["[Character type: Non-magical]"],
+        "name": "Julian",
+        "Character type":"Non-magical",
         "number": "C121",
         "rarity": "Common",
         "card_type": "Capture",
         "element": "Wood",
         "attack": "3000"
     }, {
-        "name": ["Julian"],
-        "effect": ["[Character type: Non-magical]"],
+        "name": "Julian",
+        "Character type": "Non-magical",
         "number": "C122",
         "rarity": "Common",
         "card_type": "Capture",
         "element": "Fire / Electricity",
         "attack": "4000"
     }, {
-        "name": ["Julian"],
-        "effect": ["[Character type: Non-magical]"],
+        "name": "Julian",
+        "Character type": "Non-magical",
         "number": "C123",
         "rarity": "Uncommon",
         "card_type": "Capture",
         "element": "Clouds / Wind",
         "attack": "3000"
     }, {
-        "name": ["Kero"],
-        "effect": ["[Character type: Magical]"],
+        "name": "Kero",
+        "Character type": "Magical",
         "number": "C106",
         "rarity": "Rare",
         "card_type": "Capture",
         "element": "Earth / Fire",
         "attack": "5000"
     }, {
-        "name": ["Kero"],
-        "effect": ["[Character type: Magical]"],
+        "name": "Kero",
+        "Character type": "Magical",
         "number": "C107",
         "rarity": "Common",
         "card_type": "Capture",
         "element": "Earth / Clouds",
         "attack": "2000"
     }, {
-        "name": ["Kero"],
-        "effect": ["[Character type: Magical]"],
+        "name": "Kero",
+        "Character type": "Magical",
         "number": "C108",
         "rarity": "Uncommon",
         "card_type": "Capture",
         "element": "Earth / Rain",
         "attack": "3000"
     }, {
-        "name": ["Kero"],
-        "effect": ["[Character type: Magical]"],
+        "name": "Kero",
+        "Character type": "Magical",
         "number": "C109",
         "rarity": "Uncommon",
         "card_type": "Capture",
         "element": "Gold / Rain",
         "attack": "3000"
     }, {
-        "name": ["Kero"],
-        "effect": ["[Character type: Magical]"],
+        "name": "Kero",
+        "Character type": "Magical",
         "number": "C110",
         "rarity": "Uncommon",
         "card_type": "Capture",
         "element": "Clouds / Wind",
         "attack": "3000"
     }, {
-        "name": ["Kero"],
-        "effect": ["[Character type: Magical]"],
+        "name": "Kero",
+        "Character type": "Magical",
         "number": "C111",
         "rarity": "Common",
         "card_type": "Capture",
         "element": "Fire / Rain",
         "attack": "2000"
     }, {
-        "name": ["Kero / Li Showron"],
-        "effect": ["[Character type: Magical]"],
+        "name": "Kero / Li Showron",
+        "Character type": "Magical",
         "number": "R22",
         "rarity": "Uncommon",
         "card_type": "Reinforcement"
     }, {
-        "name": ["Keroberos"],
-        "effect": ["[Character type: Magical]  Play by discarding a Kero Reinforcement Card either from your hand or from being On your Scene. Keroberos counts as Kero, but cannot be On your Scene simultaneously with Kero."],
+        "name": "Keroberos",
+        "Character type": "Magical",
+        "effect": "Play by discarding a Kero Reinforcement Card either from your hand or from being On your Scene. Keroberos counts as Kero, but cannot be On your Scene simultaneously with Kero.",
         "number": "R20",
         "rarity": "Common",
         "card_type": "Reinforcement"
     }, {
-        "name": ["Layla Mackenzie / Sakura"],
-        "effect": ["[Character type: Magical]"],
+        "name": "Layla Mackenzie / Sakura",
+        "Character type": "Magical",
         "number": "R17",
         "rarity": "Rare",
         "card_type": "Reinforcement"
     }, {
-        "name": ["Li Showron"],
-        "effect": ["[Character type: Magical]"],
+        "name": "Li Showron",
+        "Character type": "Magical",
         "number": "C102",
         "rarity": "Uncommon",
         "card_type": "Capture",
         "element": "Rain / Water",
         "attack": "3000"
     }, {
-        "name": ["Li Showron"],
-        "effect": ["[Character type: Magical]"],
+        "name": "Li Showron",
+        "effect": "Character type: Magical",
         "number": "C103",
         "rarity": "Uncommon",
         "card_type": "Capture",
         "element": "Electricity / Gold",
         "attack": "2000"
     }, {
-        "name": ["Li Showron"],
-        "effect": ["[Character type: Magical]"],
+        "name": "Li Showron",
+        "effect": "Character type: Magical",
         "number": "C104",
         "rarity": "Uncommon",
         "card_type": "Capture",
         "element": "Clouds / Rain",
         "attack": "5000"
     }, {
-        "name": ["Li Showron"],
-        "effect": ["[Character type: Magical]"],
+        "name": "Li Showron",
+        "Character type": "Magical",
         "number": "C105",
         "rarity": "Rare",
         "card_type": "Capture",
         "element": "Fire / Wood",
         "attack": "5000"
     }, {
-        "name": ["Madison"],
-        "effect": ["[Character type: Non-magical]"],
+        "name": "Madison",
+        "Character type": "Non-magical",
         "number": "C100",
         "rarity": "Common",
         "card_type": "Capture",
         "element": "Water / Wind",
         "attack": "2000"
     }, {
-        "name": ["Madison"],
-        "effect": ["[Character type: Non-magical]"],
+        "name": "Madison",
+        "Character type": "Non-magical",
         "number": "C101",
         "rarity": "Uncommon",
         "card_type": "Capture",
         "element": "Electricity / Rain",
         "attack": "3000"
     }, {
-        "name": ["Meilin"],
-        "effect": ["[Character type: Skilled]"],
+        "name": "Meilin",
+        "effect": "Character type: Skilled",
         "number": "C112",
         "rarity": "Uncommon",
         "card_type": "Capture",
         "element": "Earth / Electricity",
         "attack": "3000"
     }, {
-        "name": ["Meilin"],
-        "effect": ["[Character type: Skilled]"],
+        "name": "Meilin",
+        "Character type": "Skilled",
         "number": "C113",
         "rarity": "Common",
         "card_type": "Capture",
         "element": "Clouds",
         "attack": "2000"
     }, {
-        "name": ["Morph Killer"],
-        "effect": ["Void your opponent's strategy card that changes the type of a Capture Card or Clow Spirit Card."],
+        "name": "Morph Killer",
+        "effect": "Void your opponent's strategy card that changes the type of a Capture Card or Clow Spirit Card.",
         "number": "S49",
         "rarity": "Rare",
         "card_type": "Strategy"
     }, {
-        "name": ["One Step Ahead"],
-        "effect": ["The player that has at least one more captured Clow Spirit Card than his or her opponent draws a card."],
+        "name": "One Step Ahead",
+        "effect": "The player that has at least one more captured Clow Spirit Card than his or her opponent draws a card.",
         "number": "S59",
         "rarity": "Common",
         "card_type": "Strategy"
     }, {
-        "name": ["Out of Hiding"],
-        "effect": ["Play this card only if there are less than three Clow Spirit Cards in play, and only during the Clow Spirit Escape Phase. Both you and your opponent flip a Clow Spirit Card over from their Clow Spirit deck."],
+        "name": "Out of Hiding",
+        "effect": "Play this card only if there are less than three Clow Spirit Cards in play, and only during the Clow Spirit Escape Phase. Both you and your opponent flip a Clow Spirit Card over from their Clow Spirit deck.",
         "number": "S52",
         "rarity": "Rare",
         "card_type": "Strategy"
     }, {
-        "name": ["Out of Thin Air"],
-        "effect": ["Change Capture Card type from Rain to Water and vice versa."],
+        "name": "Out of Thin Air",
+        "effect": "Change Capture Card type from Rain to Water and vice versa.",
         "number": "S45",
         "rarity": "Common",
         "card_type": "Strategy"
     }, {
-        "name": ["Overgrowth"],
-        "effect": ["Block the capture of a Wood-type Clow Spirit this turn."],
+        "name":"Overgrowth",
+        "effect": "Block the capture of a Wood-type Clow Spirit this turn.",
         "number": "S61",
         "rarity": "Common",
         "card_type": "Strategy"
     }, {
-        "name": ["Phyrric Battle"],
-        "effect": ["Play this card after battle, and only if this is the only card in your hand. Draw six cards this turn when you replenish your hand."],
+        "name": "Phyrric Battle",
+        "effect": "Play this card after battle, and only if this is the only card in your hand. Draw six cards this turn when you replenish your hand.",
         "number": "S55",
         "rarity": "Common",
         "card_type": "Strategy"
     }, {
-        "name": ["Reckless Capture"],
-        "effect": ["Unless your opponent can answer with a Reinforcement Card, automatically capture a non-major Clow Spirit card that is of a type which you already have captured. You cannot capture a second card or replenish your hand this turn."],
+        "name": "Reckless Capture",
+        "effect": "Unless your opponent can answer with a Reinforcement Card, automatically capture a non-major Clow Spirit card that is of a type which you already have captured. You cannot capture a second card or replenish your hand this turn.",
         "number": "S47",
         "rarity": "Uncommon",
         "card_type": "Strategy"
     }, {
-        "name": ["Reminder of the Past"],
-        "effect": ["Play this card during the replenish step, but before you draw cards. Add one Strategy Card from your discard pile to your hand."],
+        "name": "Reminder of the Past",
+        "effect": "Play this card during the replenish step, but before you draw cards. Add one Strategy Card from your discard pile to your hand.",
         "number": "S57",
         "rarity": "Rare",
         "card_type": "Strategy"
     }, {
-        "name": ["Sakura"],
-        "effect": ["[Character type: Magical]"],
+        "name": "Sakura",
+        "Character type": "Magical",
         "number": "C89",
         "rarity": "Common",
         "card_type": "Capture",
         "element": "Water / Wind",
         "attack": "3000"
     }, {
-        "name": ["Sakura"],
-        "effect": ["[Character type: Magical]"],
+        "name": "Sakura",
+        "Character type": "Magical",
         "number": "C90",
         "rarity": "Uncommon",
         "card_type": "Capture",
         "element": "Rain / Clouds",
         "attack": "3000"
     }, {
-        "name": ["Sakura"],
-        "effect": ["[Character type: Magical]"],
+        "name": "Sakura",
+        "Character type": "Magical",
         "number": "C91",
         "rarity": "Common",
         "card_type": "Capture",
         "element": "Clouds / Fire",
         "attack": "2000"
     }, {
-        "name": ["Sakura"],
-        "effect": ["[Character type: Magical]"],
+        "name": "Sakura",
+        "Character type": "Magical",
         "number": "C92",
         "rarity": "Uncommon",
         "card_type": "Capture",
         "element": "Clouds / Wind",
         "attack": "5000"
     }, {
-        "name": ["Sakura"],
-        "effect": ["[Character type: Magical]"],
+        "name": "Sakura",
+        "Character type": "Magical",
         "number": "C93",
         "rarity": "Rare",
         "card_type": "Capture",
         "element": "Earth / Fire",
         "attack": "4000"
     }, {
-        "name": ["Sakura"],
-        "effect": ["[Character type: Magical]"],
+        "name": "Sakura",
+        "Character type": "Magical",
         "number": "C94",
         "rarity": "Common",
         "card_type": "Capture",
         "element": "Electricity / Water",
         "attack": "4000"
     }, {
-        "name": ["Sakura"],
-        "effect": ["[Character type: Magical]"],
+        "name": "Sakura",
+        "Character type": "Magical",
         "number": "C95",
         "rarity": "Common",
         "card_type": "Capture",
         "element": "Water / Wood",
         "attack": "3000"
     }, {
-        "name": ["Sakura"],
-        "effect": ["[Character type: Magical]"],
+        "name": "Sakura",
+        "Character type": "Magical",
         "number": "C96",
         "rarity": "Common",
         "card_type": "Capture",
         "element": "Fire / Electricity",
         "attack": "2000"
     }, {
-        "name": ["Sakura"],
-        "effect": ["[Character type: Magical]"],
+        "name": "Sakura",
+        "Character type": "Magical",
         "number": "C97",
         "rarity": "Common",
         "card_type": "Capture",
         "element": "Electricity / Clouds",
         "attack": "3000"
     }, {
-        "name": ["Sakura"],
-        "effect": ["[Character type: Magical]"],
+        "name": "Sakura",
+        "Character type": "Magical",
         "number": "C98",
         "rarity": "Rare",
         "card_type": "Capture",
         "element": "Wood / Wind",
         "attack": "5000"
     }, {
-        "name": ["Sakura"],
-        "effect": ["[Character type: Magical]"],
+        "name": "Sakura",
+        "Character type": "Magical",
         "number": "C99",
         "rarity": "Common",
         "card_type": "Capture",
         "element": "Water",
         "attack": "3000"
     }, {
-        "name": ["Sakura / Julian"],
-        "effect": ["[Character type: Magical/Non-magical]"],
+        "name": "Sakura / Julian",
+        "Character type": "Magical/Non-magical",
         "number": "R21",
         "rarity": "Uncommon",
         "card_type": "Reinforcement"
     }, {
-        "name": ["Sakura / Tori"],
-        "effect": ["[Character type: Magical/Skilled]"],
+        "name": "Sakura / Tori",
+        "Character type": "Magical/Skilled",
         "number": "R18",
         "rarity": "Uncommon",
         "card_type": "Reinforcement"
     }, {
-        "name": ["Sleight of Hand"],
-        "effect": ["Change Capture Card type from Earth to Clouds and vice versa."],
+        "name": "Sleight of Hand",
+        "effect": "Change Capture Card type from Earth to Clouds and vice versa.",
         "number": "S50",
         "rarity": "Common",
         "card_type": "Strategy"
     }, {
-        "name": ["The Roar of Battle"],
-        "effect": ["Discard a card from your hand in order to play this card, then choose one of the following effects. (1) Your Keroberos or Yue Capture Card may attempt to capture two Clow Spirits this turn, but you may not attempt other captures with any other character. This does not allow you to exceed your two capture attempts per turn (This choice may not be activated during your opponent's turn). (2) Your Keroberos or Yue Capture or Reinforcement Card may attempt to stop up to two of your opponent's capture attempts this turn."],
+        "name": "The Roar of Battle",
+        "effect": "Discard a card from your hand in order to play this card, then choose one of the following effects. (1) Your Keroberos or Yue Capture Card may attempt to capture two Clow Spirits this turn, but you may not attempt other captures with any other character. This does not allow you to exceed your two capture attempts per turn (This choice may not be activated during your opponent's turn). (2) Your Keroberos or Yue Capture or Reinforcement Card may attempt to stop up to two of your opponent's capture attempts this turn.",
         "number": "S60",
         "rarity": "Uncommon",
         "card_type": "Strategy"
     }, {
-        "name": ["The Void"],
-        "effect": [""],
+        "name": "The Void",
         "number": "CS53",
         "rarity": "Uncommon",
         "card_type": "Clow",
         "element": "Gold"
     }, {
-        "name": ["Yue"],
-        "effect": ["[Character type: Magical]  Play by discarding a Julian Reinforcement Card either from your hand or from being On your Scene. Counts as Julian, but cannot be On your Scene simultaneously with Julian."],
+        "name": "Yue",
+        "effect": "Play by discarding a Julian Reinforcement Card either from your hand or from being On your Scene. Counts as Julian, but cannot be On your Scene simultaneously with Julian.",
+        "Character type": "Magical",
         "number": "R16",
         "rarity": "Common",
         "card_type": "Reinforcement"
     }, {
-        "name": ["Yue / Tori"],
-        "effect": ["[Character type: Magical/Skilled]  You may only choose Yue as the character of this card by discarding a Julian Reinforcement Card either from your hand or from being On your Scene. Yue counts as Julian, but cannot be On your Scene simultaneously with Julian."],
+        "name": "Yue / Tori",
+        "effect": "You may only choose Yue as the character of this card by discarding a Julian Reinforcement Card either from your hand or from being On your Scene. Yue counts as Julian, but cannot be On your Scene simultaneously with Julian.",
+        "Character type:" :"Magical/Skilled",
         "number": "R19",
         "rarity": "Common",
         "card_type": "Reinforcement"

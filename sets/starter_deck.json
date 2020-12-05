@@ -24,7 +24,7 @@
         "number": "C22",
         "rarity": "Common",
         "card_type": "Capture",
-        "element": ["Fire", "Wood"],
+        "element": "Fire /Wood",
         "attack": "3000"
     }, {
         "name": "Kero",
@@ -32,7 +32,7 @@
         "number": "C23",
         "rarity": "Common",
         "card_type": "Capture",
-        "element": ["Electricity"],
+        "element": "Electricity",
         "attack": "2000"
     }, {
         "name": "Kero",
@@ -40,7 +40,7 @@
         "number": "C24",
         "rarity": "Common",
         "card_type": "Capture",
-        "element": ["Wind"],
+        "element": "Wind",
         "attack": "5000"
     }, {
         "name": "Li Showron",
@@ -48,7 +48,7 @@
         "number": "C15",
         "rarity": "Common",
         "card_type": "Capture",
-        "element": ["Wind", "Fire"],
+        "element": "Wind / Fire",
         "attack": "3000"
     }, {
         "name": "Li Showron",
@@ -56,7 +56,7 @@
         "number": "C16",
         "rarity": "Common",
         "card_type": "Capture",
-        "element": ["Wood", "Electricity"],
+        "element": "Wood / Electricity",
         "attack": "2000"
     }, {
         "name": "Li Showron",
@@ -64,7 +64,7 @@
         "number": "C17",
         "rarity": "Common",
         "card_type": "Capture",
-        "element": ["Electricity"],
+        "element": "Electricity",
         "attack": "5000"
     }, {
         "name": "Li Showron",
@@ -78,7 +78,7 @@
         "number": "C10",
         "rarity": "Common",
         "card_type": "Capture",
-        "element": ["Fire"],
+        "element": "Fire",
         "attack": "4000"
     }, {
         "name": "Madison",
@@ -86,7 +86,7 @@
         "number": "C8",
         "rarity": "Common",
         "card_type": "Capture",
-        "element": ["Wind", "Electricity"],
+        "element": "Wind / Electricity",
         "attack": "2000"
     }, {
         "name": "Madison",
@@ -94,7 +94,7 @@
         "number": "C9",
         "rarity": "Common",
         "card_type": "Capture",
-        "element": ["Wood"],
+        "element": "Wood",
         "attack": "5000"
     }, {
         "name": "Madison / Kero",
@@ -108,7 +108,7 @@
         "number": "C29",
         "rarity": "Common",
         "card_type": "Capture",
-        "element": ["Fire", "Electricity"],
+        "element": "Fire / Electricity",
         "attack": "2000"
     }, {
         "name": "Meilin",
@@ -116,7 +116,7 @@
         "number": "C30",
         "rarity": "Common",
         "card_type": "Capture",
-        "element": ["Wind"],
+        "element": "Wind",
         "attack": "3000"
     }, {
         "name": "Meilin",
@@ -124,7 +124,7 @@
         "number": "C31",
         "rarity": "Common",
         "card_type": "Capture",
-        "element": ["Wood"],
+        "element": "Wood",
         "attack": "3000"
     }, {
         "name": "Morph",
@@ -150,7 +150,7 @@
         "number": "C1",
         "rarity": "Common",
         "card_type": "Capture",
-        "element": ["Wind", "Fire"],
+        "element": "Wind / Fire",
         "attack": "2000"
     }, {
         "name": "Sakura",
@@ -158,7 +158,7 @@
         "number": "C2",
         "rarity": "Common",
         "card_type": "Capture",
-        "element": ["Wood", "Electricity"],
+        "element": "Wood / Electricity",
         "attack": "3000"
     }, {
         "name": "Sakura",
@@ -166,7 +166,7 @@
         "number": "C3",
         "rarity": "Common",
         "card_type": "Capture",
-        "element": ["Wind"],
+        "element": "Wind",
         "attack": "3000"
     }, {
         "name": "Sakura",
@@ -174,7 +174,7 @@
         "number": "C4",
         "rarity": "Common",
         "card_type": "Capture",
-        "element": ["Fire"],
+        "element": "Fire",
         "attack": "5000"
     }, {
         "name": "Sakura",
@@ -183,102 +183,102 @@
         "rarity": "Common",
         "card_type": "Reinforcement"
     }, {
-        "name": ["The Big"],
+        "name": "The Big",
         "number": "CS11",
         "rarity": "Common",
         "card_type": "Clow",
-        "element": ["Wood"]
+        "element": "Wood"
     }, {
-        "name": ["The Change"],
+        "name": "The Change",
         "number": "CS10",
         "rarity": "Common",
         "card_type": "Clow",
-        "element": ["Wood"]
+        "element": "Wood"
     }, {
-        "name": ["The Dash"],
+        "name": "The Dash",
         "number": "CS2",
         "rarity": "Common",
         "card_type": "Clow",
-        "element": ["Wind"]
+        "element": "Wind"
     }, {
-        "name": ["The Dream"],
+        "name": "The Dream",
         "number": "CS4",
         "rarity": "Common",
         "card_type": "Clow",
-        "element": ["Wind"]
+        "element": "Wind"
     }, {
-        "name": ["The Erase"],
+        "name": "The Erase",
         "number": "CS8",
         "rarity": "Common",
         "card_type": "Clow",
-        "element": ["Fire"]
+        "element": "Fire"
     }, {
-        "name": ["The Fight"],
+        "name": "The Fight",
         "number": "CS6",
         "rarity": "Common",
         "card_type": "Clow",
-        "element": ["Fire"]
+        "element": "Fire"
     }, {
-        "name": ["The Firey"],
+        "name": "The Firey",
         "major_clow_spirit": true,
         "number": "CS5",
         "rarity": "Common",
         "card_type": "Clow",
-        "element": ["Fire"]
-    }, {
+        "element": "Fire"
+    }, { 
         "name": "The Freeze",
         "number": "CS3",
         "rarity": "Common",
         "card_type": "Clow",
-        "element": ["Wind"]
+        "element": "Wind"
     }, {
         "name": "The Glow",
         "number": "CS16",
         "rarity": "Common",
         "card_type": "Clow",
-        "element": ["Electricity"]
+        "element": "Electricity"
     }, {
         "name": "The Jump",
         "number": "CS7",
         "rarity": "Common",
         "card_type": "Clow",
-        "element": ["Fire"]
+        "element": "Fire"
     }, {
         "name": "The Mirror",
         "number": "CS12",
         "rarity": "Common",
         "card_type": "Clow",
-        "element": ["Wood"]
+        "element": "Wood"
     }, {
         "name": "The Power",
         "number": "CS14",
         "rarity": "Common",
         "card_type": "Clow",
-        "element": ["Electricity"]
+        "element": "Electricity"
     }, {
         "name": "The Sword",
         "number": "CS15",
         "rarity": "Common",
         "card_type": "Clow",
-        "element": ["Electricity"]
+        "element": "Electricity"
     }, {
         "name": "The Thunder",
         "number": "CS13",
         "rarity": "Common",
         "card_type": "Clow",
-        "element": ["Electricity"]
+        "element": "Electricity"
     }, {
         "name": "The Windy",
         "major_clow_spirit": true,
         "number": "CS1",
         "rarity": "Common",
         "card_type": "Clow",
-        "element": ["Wind"]
+        "element": "Wind"
     }, {
         "name": "The Wood",
         "number": "CS9",
         "rarity": "Common",
         "card_type": "Clow",
-        "element": ["Wood"]
+        "element": "Wood"
     }]
 }
