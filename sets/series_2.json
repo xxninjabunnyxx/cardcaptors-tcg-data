@@ -56,15 +56,15 @@
             "number": "C84",
             "rarity": "Uncommon",
             "card_type": "Capture",
-            "element": "Earth/Water",
+            "element": "Earth / Water",
             "attack": "3000"
         }, {
             "name": "Julian",
-            "effect": "[Character type: Non-magical",
+            "Character type": "Non-magical",
             "number": "C85",
             "rarity": "Rare",
             "card_type": "Capture",
-            "element": "Clouds/Rain",
+            "element": "Clouds / Rain",
             "attack": "5000"
         }, {
             "name": "Kero",
@@ -72,7 +72,7 @@
             "number": "C71",
             "rarity": "Common",
             "card_type": "Capture",
-            "element": "Clouds/Water",
+            "element": "Clouds / Water",
             "attack": "2000"
         }, {
             "name": "Kero",
@@ -88,7 +88,7 @@
             "number": "C73",
             "rarity": "Uncommon",
             "card_type": "Capture",
-            "element": "Earth/Wind",
+            "element": "Earth / Wind",
             "attack": "3000"
         }, {
             "name": "Kero",
@@ -96,7 +96,7 @@
             "number": "C74",
             "rarity": "Common",
             "card_type": "Capture",
-            "element": "Gold/Rain",
+            "element": "Gold / Rain",
             "attack": "5000"
         }, {
             "name": "Kero",
@@ -104,7 +104,7 @@
             "number": "C75",
             "rarity": "Common",
             "card_type": "Capture",
-            "element": "Rain/Water",
+            "element": "Rain / Water",
             "attack": "2000"
         }, {
             "name": "Kero",
@@ -112,7 +112,7 @@
             "number": "C76",
             "rarity": "Common",
             "card_type": "Capture",
-            "element": "Clouds/Earth",
+            "element": "Clouds / Earth",
             "attack": "3000"
         }, {
             "name": "Kero",
@@ -126,7 +126,7 @@
             "number": "C44",
             "rarity": "Uncommon",
             "card_type": "Capture",
-            "element": "Clouds/Wind",
+            "element": "Clouds / Wind",
             "attack": "3000"
         }, {
             "name": "Layla Mackenzie",
@@ -134,7 +134,7 @@
             "number": "C45",
             "rarity": "Uncommon",
             "card_type": "Capture",
-            "element": "Fire/Rain",
+            "element": "Fire / Rain",
             "attack": "3000"
         }, {
             "name": "Layla Mackenzie",
@@ -142,7 +142,7 @@
             "number": "C46",
             "rarity": "Rare",
             "card_type": "Capture",
-            "element": "Earth/Wind",
+            "element": "Earth / Wind",
             "attack": "5000"
         }, {
             "name": "Layla Mackenzie",
@@ -150,7 +150,7 @@
             "number": "C47",
             "rarity": "Uncommon",
             "card_type": "Capture",
-            "element": "Electricity/Water",
+            "element": "Electricity / Water",
             "attack": "3000"
         }, {
             "name": "Layla Mackenzie",
@@ -158,7 +158,7 @@
             "number": "C48",
             "rarity": "Common",
             "card_type": "Capture",
-            "element": "Gold/Water",
+            "element": "Gold / Water",
             "attack": "2000"
         }, {
             "name": "Layla Mackenzie",
@@ -166,7 +166,7 @@
             "number": "C49",
             "rarity": "Uncommon",
             "card_type": "Capture",
-            "element": "Clouds/Electricity",
+            "element": "Clouds / Electricity",
             "attack": "4000"
         }, {
             "name": "Layla Mackenzie",
@@ -174,7 +174,7 @@
             "number": "C50",
             "rarity": "Common",
             "card_type": "Capture",
-            "element": "Rain/Wood",
+            "element": "Rain / Wood",
             "attack": "2000"
         }, {
             "name": "Layla Mackenzie",
@@ -182,7 +182,7 @@
             "number": "C51",
             "rarity": "Uncommon",
             "card_type": "Capture",
-            "element": "Earth/Wind",
+            "element": "Earth / Wind",
             "attack": "4000"
         }, {
             "name": "Layla Mackenzie",
@@ -190,7 +190,7 @@
             "number": "C52",
             "rarity": "Rare",
             "card_type": "Capture",
-            "element": "Fire/Gold",
+            "element": "Fire / Gold",
             "attack": "5000"
         }, {
             "name": "Layla Mackenzie",
@@ -199,8 +199,8 @@
             "rarity": "Common",
             "card_type": "Reinforcement"
         }, {
-            "name": "Layla Mackenzie/Tori",
-            "Character type": "Magical/Skilled",
+            "name": "Layla Mackenzie / Tori",
+            "Character type": "Magical / Skilled",
             "number": "R13",
             "rarity": "Uncommon",
             "card_type": "Reinforcement"
@@ -218,7 +218,7 @@
             "number": "C66",
             "rarity": "Common",
             "card_type": "Capture",
-            "element": "Clouds/Rain",
+            "element": "Clouds / Rain",
             "attack": "2000"
         }, {
             "name": "Li Showron",
@@ -226,7 +226,7 @@
             "number": "C67",
             "rarity": "Uncommon",
             "card_type": "Capture",
-            "element": "Earth/Water",
+            "element": "Earth / Water",
             "attack": "4000"
         }, {
             "name": "Li Showron",
@@ -234,7 +234,7 @@
             "number": "C68",
             "rarity": "Rare",
             "card_type": "Capture",
-            "element": "Earth/Gold",
+            "element": "Earth / Gold",
             "attack": "5000"
         }, {
             "name": "Li Showron",
@@ -242,7 +242,7 @@
             "number": "C69",
             "rarity": "Common",
             "card_type": "Capture",
-            "element": "Earth/Clouds",
+            "element": "Earth / Clouds",
             "attack": "2000"
         }, {
             "name": "Li Showron",
@@ -250,7 +250,7 @@
             "number": "C70",
             "rarity": "Uncommon",
             "card_type": "Capture",
-            "element": "Rain/Water",
+            "element": "Rain / Water",
             "attack": "3000"
         }, {
             "name": "Li Showron's Board",
@@ -266,11 +266,11 @@
             "card_type": "Strategy"
         }, {
             "name": "Madison",
-            "Character type": "Non-magical]",
+            "Character type": "Non-magical",
             "number": "C59",
             "rarity": "Uncommon",
             "card_type": "Capture",
-            "element": "Clouds/Wood",
+            "element": "Clouds / Wood",
             "attack": "4000"
         }, {
             "name": "Madison",
@@ -278,7 +278,7 @@
             "number": "C60",
             "rarity": "Common",
             "card_type": "Capture",
-            "element": "Fire/Rain",
+            "element": "Fire / Rain",
             "attack": "2000"
         }, {
             "name": "Madison",
@@ -286,7 +286,7 @@
             "number": "C61",
             "rarity": "Uncommon",
             "card_type": "Capture",
-            "element": "Earth/Electricity",
+            "element": "Earth / Electricity",
             "attack": "3000"
         }, {
             "name": "Madison",
@@ -294,7 +294,7 @@
             "number": "C62",
             "rarity": "Uncommon",
             "card_type": "Capture",
-            "element": "Gold/Water",
+            "element": "Gold / Water",
             "attack": "4000"
         }, {
             "name": "Madison",
@@ -302,7 +302,7 @@
             "number": "C63",
             "rarity": "Rare",
             "card_type": "Capture",
-            "element": "Earth/Water",
+            "element": "Earth / Water",
             "attack": "5000"
         }, {
             "name": "Madison",
@@ -310,10 +310,10 @@
             "number": "C64",
             "rarity": "Uncommon",
             "card_type": "Capture",
-            "element": "Clouds/Rain",
+            "element": "Clouds / Rain",
             "attack": "3000"
         }, {
-            "name": "Madison/Meilin",
+            "name": "Madison / Meilin",
             "Character type": "Nonmagical / Skilled]",
             "number": "R14",
             "rarity": "Rare",
@@ -324,7 +324,7 @@
             "number": "C77",
             "rarity": "Uncommon",
             "card_type": "Capture",
-            "element": "Clouds/Water",
+            "element": "Clouds / Water",
             "attack": "4000"
         }, {
             "name": "Meilin",
@@ -340,7 +340,7 @@
             "number": "C79",
             "rarity": "Uncommon",
             "card_type": "Capture",
-            "element": "Rain/Wind",
+            "element": "Rain / Wind",
             "attack": "4000"
         }, {
             "name": "Meilin",
@@ -348,7 +348,7 @@
             "number": "C80",
             "rarity": "Common",
             "card_type": "Capture",
-            "element": "Clouds/Gold",
+            "element": "Clouds / Gold",
             "attack": "2000"
         }, {
             "name": "Meilin",
@@ -356,7 +356,7 @@
             "number": "C81",
             "rarity": "Uncommon",
             "card_type": "Capture",
-            "element": "Clouds/Rain",
+            "element": "Clouds / Rain",
             "attack": "3000"
         }, {
             "name": "Meilin",
@@ -364,7 +364,7 @@
             "number": "C82",
             "rarity": "Rare",
             "card_type": "Capture",
-            "element": "Earth/Water",
+            "element": "Earth / Water",
             "attack": "5000"
         }, {
             "name": "Sakura",
@@ -372,7 +372,7 @@
             "number": "C53",
             "rarity": "Rare",
             "card_type": "Capture",
-            "element": "Rain/Water",
+            "element": "Rain / Water",
             "attack": "5000"
         }, {
             "name": "Sakura",
@@ -380,7 +380,7 @@
             "number": "C54",
             "rarity": "Common",
             "card_type": "Capture",
-            "element": "Earth/Water",
+            "element": "Earth / Water",
             "attack": "2000"
         }, {
             "name": "Sakura",
@@ -388,7 +388,7 @@
             "number": "C55",
             "rarity": "Common",
             "card_type": "Capture",
-            "element": "Fire/Rain",
+            "element": "Fire / Rain",
             "attack": "2000"
         }, {
             "name": "Sakura",
@@ -396,7 +396,7 @@
             "number": "C56",
             "rarity": "Uncommon",
             "card_type": "Capture",
-            "element": "Clouds/Gold",
+            "element": "Clouds / Gold",
             "attack": "4000"
         }, {
             "name": "Sakura",
@@ -404,7 +404,7 @@
             "number": "C57",
             "rarity": "Uncommon",
             "card_type": "Capture",
-            "element": "Clouds/Water",
+            "element": "Clouds / Water",
             "attack": "3000"
         }, {
             "name": "Sakura",
@@ -412,7 +412,7 @@
             "number": "C58",
             "rarity": "Uncommon",
             "card_type": "Capture",
-            "element": "Earth/Rain",
+            "element": "Earth / Rain",
             "attack": "4000"
         }, {
             "name": "Sealing Wand",
@@ -603,7 +603,7 @@
     "number": "C86",
     "rarity": "Rare",
     "card_type": "Capture",
-    "element": "Clouds/Wood",
+    "element": "Clouds / Wood",
     "attack": "5000"
 }, {
     "name": "Tori",
@@ -611,7 +611,7 @@
     "number": "C87",
     "rarity": "Uncommon",
     "card_type": "Capture",
-    "element": "Earth/Rain",
+    "element": "Earth / Rain",
     "attack": "4000"
 }, {
     "name": "Tori",
@@ -619,7 +619,7 @@
     "number": "C88",
     "rarity": "Uncommon",
     "card_type": "Capture",
-    "element": "Gold/Water",
+    "element": "Gold / Water",
     "attack": "3000"
 }, {
     "name": "Use the Clow",

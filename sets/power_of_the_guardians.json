@@ -42,7 +42,7 @@
         "effect": "Void your opponent's strategy card that returns any Clow Spirit to the Clow Spirit deck.",
         "number": "S44",
         "rarity": "Rare",
-        "card_type": "Strategy "
+        "card_type": "Strategy"
     }, {
         "name": "Double Drain",
         "effect": "Halve the battle value of your opponent's Capture Card.",
@@ -410,13 +410,13 @@
         "attack": "3000"
     }, {
         "name": "Sakura / Julian",
-        "Character type": "Magical/Non-magical",
+        "Character type": "Magical / Non-magical",
         "number": "R21",
         "rarity": "Uncommon",
         "card_type": "Reinforcement"
     }, {
         "name": "Sakura / Tori",
-        "Character type": "Magical/Skilled",
+        "Character type": "Magical / Skilled",
         "number": "R18",
         "rarity": "Uncommon",
         "card_type": "Reinforcement"

@@ -62,7 +62,7 @@
             "number": "C36",
             "rarity": "Rare",
             "card_type": "Capture",
-            "element": "Wind /Fire",
+            "element": "Wind / Fire",
             "attack": "4000"
         },
         {
@@ -122,7 +122,7 @@
             "number": "C27",
             "rarity": "Rare",
             "card_type": "Capture",
-            "element": "Fire  /  Electricity",
+            "element": "Fire / Electricity",
             "attack": "5000"
         },
         {
@@ -149,7 +149,7 @@
             "number": "C19",
             "rarity": "Rare",
             "card_type": "Capture",
-            "element": "Wind  /  Wood",
+            "element": "Wind / Wood",
             "attack": "5000"
         },
         {
@@ -171,7 +171,7 @@
         },
         {
             "name": "Li Showron/Meilin",
-            "character_type":"Magical  /  Skilled",
+            "character_type":"Magical / Skilled",
             "number": "R7",
             "rarity": "Uncommon",
             "card_type": "Reinforcement"
@@ -437,7 +437,7 @@
             "element": "Wind"
         },
         {
-            "name": ["Tori"],
+            "name": "Tori",
             "character_type":"Skilled",
             "number": "C40",
             "rarity": "Uncommon",
