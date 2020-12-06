@@ -10,7 +10,7 @@ const seperateCards = async () => {
             set = await JSON.parse(set)
             set.cards.map(async card => {
                 card.set_name = set.set_name
-                fs.writeFileSync(`./cards/${uuid()}.json`, await JSON.stringify(card))
+                fs.writeFileSync(`./raw/${uuid()}.json`, await JSON.stringify(card))
             })
         })
     } catch (error) {
