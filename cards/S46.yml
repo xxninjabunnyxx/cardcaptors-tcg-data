@@ -1,0 +1,8 @@
+name: Crossed Wires
+effect: Play only during your turn. Switch the choice of characters on one
+  opponent's Reinforcement Card that has two character choices on it. If the
+  second character is already On Scene, void that Reinforcement Card instead.
+number: S46
+rarity: Uncommon
+card_type: Strategy
+set_name: Power of the Guardians

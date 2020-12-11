@@ -1,0 +1,9 @@
+name: Expect the Unexpected
+effect: Play during your Replenish Step, but only in a turn that has had a
+  Battle (i.e., a Capture Card was played by both players and Battle Values were
+  compared). You may discard your entire hand during the replenish step of this
+  turn.
+number: S51
+rarity: Common
+card_type: Strategy
+set_name: Power of the Guardians
