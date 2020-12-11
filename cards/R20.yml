@@ -1,0 +1,9 @@
+name: Keroberos
+effect: Play by discarding a Kero Reinforcement Card either from your hand or
+  from being On your Scene. Keroberos counts as Kero, but cannot be On your
+  Scene simultaneously with Kero.
+number: R20
+rarity: Common
+card_type: Reinforcement
+set_name: Power of the Guardians
+character_type: ""

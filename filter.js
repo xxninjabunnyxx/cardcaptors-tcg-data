@@ -5,8 +5,8 @@ const filter = async () => {
     try {
         data.map(async card => {
             let data = await JSON.parse(fs.readFileSync(`./raw/${card}`, 'utf8'))
-            if (data.card_type && data.card_type === 'Clow') {
-                fs.renameSync(`./raw/${card}`, `./clow/${card}`)
+            if (data.card_type && data.card_type === 'Reinforcement') {
+                fs.renameSync(`./raw/${card}`, `./reinforcement/${card}`)
             }
         })
     } catch (error) {
